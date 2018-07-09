@@ -1,0 +1,286 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rdf:RDF xmlns='http://knowledgeweb.semanticweb.org/heterogeneity/alignment'
+	 xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' 
+	 xmlns:xsd='http://www.w3.org/2001/XMLSchema#' 
+	 alignmentSource='AgreementMakerLight'>
+
+<Alignment>
+	<xml>yes</xml>
+	<level>0</level>
+	<type>11</type>
+	<onto1>Ressources\Reseau\Profs.owl</onto1>
+	<onto2>Ressources/Profile/GSEMOnto.owl</onto2>
+	<uri1>http://www.ontologie.fr/prof#</uri1>
+	<uri2>http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology</uri2>
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/prof#Document"/>
+			<entity2 rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Document"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.99</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/prof#Enseignement"/>
+			<entity2 rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Enseignement"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9838</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/prof#Collaborateurs"/>
+			<entity2 rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Collaborateur"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7766</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/prof#Professeurs_honoraires"/>
+			<entity2 rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Professeur_honoraire"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7746</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/prof#Facult_s"/>
+			<entity2 rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Faculties"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7478</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/prof#Services_aux__tudiants"/>
+			<entity2 rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Service_aide_aux_etudiants"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7425</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/prof#Coursera"/>
+			<entity2 rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Cours"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7351</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/prof#Bachelor_en__conomie_et_management"/>
+			<entity2 rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Bachelor_in_Economics_and_Management"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7258</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/prof#Executive_MBA"/>
+			<entity2 rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Executive_Education"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.724</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/prof#Master"/>
+			<entity2 rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Master_Programs"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7214</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/prof#Services_num_riques"/>
+			<entity2 rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Service_informatique"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.715</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/prof#Professeurs___recherche"/>
+			<entity2 rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Professeur_associe"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7116</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/prof#Doctorat"/>
+			<entity2 rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Doctoral_Programs"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7095</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/prof#Services___la_cit_"/>
+			<entity2 rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Service_operationnel"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7039</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/prof#Services"/>
+			<entity2 rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Service_RH_et_logistique"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.697</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/prof#Instituts"/>
+			<entity2 rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Institute_of_Economics_and_Econometrics"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6894</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/prof#Formation_continue"/>
+			<entity2 rdf:resource="http://www.w3.org/ns/org#FormalOrganization"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6764</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/prof#Partenariats_internationaux"/>
+			<entity2 rdf:resource="http://www.w3.org/ns/org#OrganizationalCollaboration"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6638</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/prof#Sciences"/>
+			<entity2 rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Scientific_Committee"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6599</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/prof#Contact"/>
+			<entity2 rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6429</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/prof#SCAILLET_Olivier"/>
+			<entity2 rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Salle"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6224</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/prof#CHAIEB_Ines"/>
+			<entity2 rdf:resource="http://www.w3.org/ns/org#ChangeEvent"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6152</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/prof#S_minaires_de_recherche"/>
+			<entity2 rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Domaine_de_recherche"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.614</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/prof#INFORMATION"/>
+			<entity2 rdf:resource="http://www.w3.org/ns/org#Organization"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6131</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/prof#Portail"/>
+			<entity2 rdf:resource="http://www.w3.org/ns/org#Post"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6123</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/prof#RAISCH_Sebastian"/>
+			<entity2 rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Research_institutes"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6114</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/prof#etudiants"/>
+			<entity2 rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Student"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6114</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/prof#Contacts"/>
+			<entity2 rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#COMENS"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6098</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/prof#Certificat_compl_mentaire_en_statistique_appliqu_e"/>
+			<entity2 rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Complementary_Certificate_in_Applied_Statistics_program"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6019</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/prof#PREUSCHOFF_Kerstin"/>
+			<entity2 rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Professeur_assistant"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6002</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+</Alignment>
+</rdf:RDF>

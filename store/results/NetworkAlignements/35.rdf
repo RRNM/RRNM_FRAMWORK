@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rdf:RDF xmlns='http://knowledgeweb.semanticweb.org/heterogeneity/alignment'
+	 xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' 
+	 xmlns:xsd='http://www.w3.org/2001/XMLSchema#' 
+	 alignmentSource='AgreementMakerLight'>
+
+<Alignment>
+	<xml>yes</xml>
+	<level>0</level>
+	<type>11</type>
+	<onto1>Ressources\Reseau\programmecours.owl</onto1>
+	<onto2>Ressources\Reseau\PLANNING.owl</onto2>
+	<uri1>http://www.ontologie.fr/programmecours#</uri1>
+	<uri2>http://www.ontologie.fr/monexcelplan#</uri2>
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/programmecours#Document"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monexcelplan#Document"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.99</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/programmecours#Econometrics"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monexcelplan#Econometrics"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9883</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/programmecours#Numerical_Methods_II"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monexcelplan#Numerical_Methods_II"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9879</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/programmecours#Numerical_Methods_I"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monexcelplan#Numerical_Methods_I"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9877</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/programmecours#Probability_and_Statistics_II"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monexcelplan#Probability_and_Statistics_II"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9871</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/programmecours#Statistical_Modelling"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monexcelplan#Statistical_Modelling"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9853</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/programmecours#Labour_Economics"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monexcelplan#Labour_Economics"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9852</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/programmecours#Environmental_and_Resource_Economics"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monexcelplan#Environmental_and_Resource_Economics"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9825</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/programmecours#International_Management"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monexcelplan#International_Management"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9801</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/programmecours#Development_Economics"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monexcelplan#Development_Economics"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9801</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/programmecours#Microeconomics_I"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monexcelplan#Microeconomics_I"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9801</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/programmecours#Enseignant"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monexcelplan#Enseignant"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9801</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/programmecours#L_economie_contemporaine_dans_une_perspective_historique"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monexcelplan#L__conomie_contemporaine_dans_une_perspective_historique"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7538</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/programmecours#Histoire_economique_et_sociale_des_pays_en_voie_de_developpement"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monexcelplan#Histoire__conomique_et_sociale_des_pays_en_voie_de_d_veloppement"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6277</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+</Alignment>
+</rdf:RDF>

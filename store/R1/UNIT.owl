@@ -1,0 +1,386 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <owl:Ontology rdf:about="http://www.ontologie.fr/monexcel#"/>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Observatory of the Values of Strategy and Management">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Geneva Finance Research Institute">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Information Science Institute">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Institute of Management">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#UNI_nam2">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Document">
+    <rdfs:label xml:lang="en"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#UNI_date1">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Research Center in Environment and Development Economics">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#GSEM_institues_">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Consulting Service in Statistics">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Centre de consultation en statistique">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Human Development Center ">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Observatoire international du don caritatif">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Institute of Applied Research in Economics and Management">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#International Observatory of Charitable Giving">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#99">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#01">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#UNI_numr">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Geneva PPP Research Center">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Recherche">
+    <rdfs:label></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Carine">
+    <rdfs:label></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Center for Organizational Excellence">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#UNI_ctyp">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Institut de recherche appliquée en économie et gestion">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#UNI_date2">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Institute of Economics and Econometrics">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Product Market Interactions and Financial Decisions">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Institues">
+    <rdfs:label></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#UNI_nam2c">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#UNI_nam1">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#UNI_nam1c">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Observatoire des valeurs de la stratégie et du management">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Center for Microfinance and Financial Inclusion">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Copie_de_UNIT.xlsx">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#UNI_codunic">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Geneva Center for Interdisciplinary Decision Research">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#02">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Research Center for Statistics">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row8_Colum2">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Research Center in Environment and Development Economics"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Titles_Row6_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Geneva PPP Research Center"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Titles_Row0_Colum0">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#UNI_codunic"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row1_Colum3">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#01"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#managedby">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row6_Colum2">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Geneva PPP Research Center"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Titles_Row0_Colum4">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#UNI_nam1c"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row10_Colum2">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Center for Organizational Excellence"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row16_Colum3">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#02"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Titles_Row4_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Research Center for Statistics"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#is_Path">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Document"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#createdBy">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Carine"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Titles_Row0_Colum8">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#UNI_numr"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row4_Colum2">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Research Center for Statistics"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Titles_Row11_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Product Market Interactions and Financial Decisions"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row14_Colum2">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Consulting Service in Statistics"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#hasdescription">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row2_Colum2">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Institute of Management"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row12_Colum2">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Center for Microfinance and Financial Inclusion"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Titles_Row2_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Institute of Management"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#hastitle">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row8_Colum3">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#02"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Titles_Row15_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Observatoire des valeurs de la stratégie et du management"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row1_Colum2">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Institute of Economics and Econometrics"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Titles_Row0_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#UNI_nam1"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Titles_Row0_Colum5">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#UNI_nam2c"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Titles_Row13_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Geneva Center for Interdisciplinary Decision Research"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row15_Colum2">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Observatory of the Values of Strategy and Management"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row6_Colum3">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#02"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row13_Colum3">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#02"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row4_Colum3">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#01"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#haskeywords">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Recherche"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row2_Colum3">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#01"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row11_Colum3">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#02"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#belongsto">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#is_a">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Titles_Row7_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Observatoire international du don caritatif"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row7_Colum2">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#International Observatory of Charitable Giving"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Titles_Row9_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Human Development Center "/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Titles_Row0_Colum2">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#UNI_nam2"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Titles_Row5_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Information Science Institute"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row15_Colum3">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#02"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Titles_Row0_Colum6">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#UNI_date1"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Titles_Row10_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Center for Organizational Excellence"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Titles_Row3_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Geneva Finance Research Institute"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#is_Title">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Document"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row13_Colum2">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Geneva Center for Interdisciplinary Decision Research"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row5_Colum2">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Information Science Institute"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row11_Colum2">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Product Market Interactions and Financial Decisions"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#hassubject">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Titles_Row1_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Institute of Economics and Econometrics"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row3_Colum2">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Geneva Finance Research Institute"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row9_Colum3">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#02"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_category">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row7_Colum3">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#02"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Titles_Row14_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Centre de consultation en statistique"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Titles_Row12_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Center for Microfinance and Financial Inclusion"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row10_Colum3">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#02"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row16_Colum2">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Institute of Applied Research in Economics and Management"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Titles_Row0_Colum3">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#UNI_ctyp"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Titles_Row0_Colum7">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#UNI_date2"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row14_Colum3">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#99"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row5_Colum3">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#01"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Titles_Row16_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Institut de recherche appliquée en économie et gestion"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row12_Colum3">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#02"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Titles_Row8_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Research Center in Environment and Development Economics"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row9_Colum2">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Human Development Center "/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row3_Colum3">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#01"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+  </owl:ObjectProperty>
+</rdf:RDF>

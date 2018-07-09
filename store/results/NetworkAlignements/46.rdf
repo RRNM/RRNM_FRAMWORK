@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rdf:RDF xmlns='http://knowledgeweb.semanticweb.org/heterogeneity/alignment'
+	 xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' 
+	 xmlns:xsd='http://www.w3.org/2001/XMLSchema#' 
+	 alignmentSource='AgreementMakerLight'>
+
+<Alignment>
+	<xml>yes</xml>
+	<level>0</level>
+	<type>11</type>
+	<onto1>Ressources\Reseau\UNIT.owl</onto1>
+	<onto2>Ressources\Reseau\CATALOG.owl</onto2>
+	<uri1>http://www.ontologie.fr/monexcel#</uri1>
+	<uri2>http://www.ontologie.fr/monexcel#</uri2>
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/monexcel#Copie_de_UNITpointxlsx"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monexcel#Copie_de_CATALOG.xlsx"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.714</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/monexcel#Research_Center_for_Statistics"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monexcel#Research_Seminar_in_statistics"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7118</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/monexcel#Product_Market_Interactions_and_Financial_Decisions"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monexcel#Production_Management_and_Logistics"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6974</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/monexcel#International_Observatory_of_Charitable_Giving"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monexcel#International_Management"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6815</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/monexcel#GSEM_institues_"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monexcel#GSEM"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6721</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/monexcel#UNI_ctyp"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monexcel#UE_ctypue"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6469</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/monexcel#Geneva_Finance_Research_Institute"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monexcel#Generalized_Linear_and_Additive_Models"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6269</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/monexcel#Institute_of_Management"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monexcel#Introduction_to_Management_"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6249</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/monexcel#Information_Science_Institute"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monexcel#formations"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6128</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/monexcel#Institute_of_Economics_and_Econometrics"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monexcel#Introduction_a_la_microeconomie"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6049</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+</Alignment>
+</rdf:RDF>

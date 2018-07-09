@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import com.jfoenix.controls.JFXComboBox?>
+<?import com.jfoenix.controls.JFXDrawer?>
+<?import com.jfoenix.controls.JFXHamburger?>
+<?import com.jfoenix.controls.JFXTextField?>
+<?import com.jfoenix.controls.JFXTreeTableView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.FlowPane?>
+
+<AnchorPane id="AnchorPane" fx:id="root" prefHeight="546.0" prefWidth="711.0" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1" fx:controller="GUIJavaFX.SearchController">
+    <children>
+      <JFXDrawer fx:id="drawer" defaultDrawerSize="200.0" layoutY="-6.0" maxHeight="1.7976931348623157E308" prefHeight="553.0" prefWidth="126.0" AnchorPane.leftAnchor="0.0" />
+      <JFXHamburger fx:id="hamburger" layoutX="661.0" layoutY="14.0" />
+      <JFXButton buttonType="RAISED" layoutX="608.0" layoutY="83.0" onAction="#searchBtnAction" prefHeight="25.0" prefWidth="83.0" style="-fx-background-color: rgb(1,89,162);" text="Search" textFill="WHITE" />
+      <JFXTextField fx:id="searchField" layoutX="396.0" layoutY="83.0" />
+      <FlowPane fx:id="main" layoutX="150.0" layoutY="125.0" prefHeight="311.0" prefWidth="542.0">
+         <children>
+            <JFXTreeTableView fx:id="treeView" prefHeight="400.0" prefWidth="540.0" />
+         </children>
+      </FlowPane>
+      <JFXComboBox fx:id="languageCB" layoutX="533.0" layoutY="83.0" promptText="Select" />
+    </children>
+</AnchorPane>

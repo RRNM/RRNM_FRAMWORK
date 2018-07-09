@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rdf:RDF xmlns='http://knowledgeweb.semanticweb.org/heterogeneity/alignment'
+	 xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' 
+	 xmlns:xsd='http://www.w3.org/2001/XMLSchema#' 
+	 alignmentSource='AgreementMakerLight'>
+
+<Alignment>
+	<xml>yes</xml>
+	<level>0</level>
+	<type>11</type>
+	<onto1>Ressources\Reseau\programmecours.owl</onto1>
+	<onto2>Ressources\Reseau\Profs.owl</onto2>
+	<uri1>http://www.ontologie.fr/programmecours#</uri1>
+	<uri2>http://www.ontologie.fr/prof#</uri2>
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/programmecours#Document"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/prof#Document"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.99</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/programmecours#__Programme_des_cours"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/prof#Programme_des_cours"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9802</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/programmecours#Enseignant"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/prof#Enseignement"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7475</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/programmecours#Faculte"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/prof#Facult_s"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.743</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/programmecours#International_Management"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/prof#International"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7362</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/programmecours#Archive"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/prof#Archive_ouverte"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7283</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/programmecours#Universite_de_Geneve"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/prof#Universit_"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7266</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/programmecours#Chercher"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/prof#Chercheurs___enseignants"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7176</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/programmecours#Statistical_Modelling"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/prof#Statistiques"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6982</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/programmecours#http:__example_com_"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/prof#https:__unige_ch___emplois"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6543</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/programmecours#Histoire_economique_internationale"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/prof#Historique"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6417</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/programmecours#Intranet"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/prof#International_Organizations_MBA"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6255</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/programmecours#Labour_Economics"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/prof#Laurent_Moccozet"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6098</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+</Alignment>
+</rdf:RDF>

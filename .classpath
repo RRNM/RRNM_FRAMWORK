@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-logging-1.1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/apache-jena-3.3.0/apache-jena-3.3.0/lib/collection-0.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/apache-jena-3.3.0/apache-jena-3.3.0/lib/commons-cli-1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/apache-jena-3.3.0/apache-jena-3.3.0/lib/commons-codec-1.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/apache-jena-3.3.0/apache-jena-3.3.0/lib/commons-csv-1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/apache-jena-3.3.0/apache-jena-3.3.0/lib/commons-io-2.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/apache-jena-3.3.0/apache-jena-3.3.0/lib/commons-lang3-3.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/apache-jena-3.3.0/apache-jena-3.3.0/lib/httpclient-4.5.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/apache-jena-3.3.0/apache-jena-3.3.0/lib/httpclient-cache-4.5.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/apache-jena-3.3.0/apache-jena-3.3.0/lib/httpcore-4.4.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/apache-jena-3.3.0/apache-jena-3.3.0/lib/jackson-annotations-2.7.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/apache-jena-3.3.0/apache-jena-3.3.0/lib/jackson-core-2.7.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/apache-jena-3.3.0/apache-jena-3.3.0/lib/jackson-databind-2.7.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/apache-jena-3.3.0/apache-jena-3.3.0/lib/jcl-over-slf4j-1.7.21.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/apache-jena-3.3.0/apache-jena-3.3.0/lib/jena-arq-3.3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/apache-jena-3.3.0/apache-jena-3.3.0/lib/jena-base-3.3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/apache-jena-3.3.0/apache-jena-3.3.0/lib/jena-cmds-3.3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/apache-jena-3.3.0/apache-jena-3.3.0/lib/jena-core-3.3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/apache-jena-3.3.0/apache-jena-3.3.0/lib/jena-iri-3.3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/apache-jena-3.3.0/apache-jena-3.3.0/lib/jena-rdfconnection-3.3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/apache-jena-3.3.0/apache-jena-3.3.0/lib/jena-shaded-guava-3.3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/apache-jena-3.3.0/apache-jena-3.3.0/lib/jena-tdb-3.3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/apache-jena-3.3.0/apache-jena-3.3.0/lib/jsonld-java-0.9.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/apache-jena-3.3.0/apache-jena-3.3.0/lib/libthrift-0.9.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/apache-jena-3.3.0/apache-jena-3.3.0/lib/log4j-1.2.17.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/apache-jena-3.3.0/apache-jena-3.3.0/lib/slf4j-api-1.7.21.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/apache-jena-3.3.0/apache-jena-3.3.0/lib/xercesImpl-2.11.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/apache-jena-3.3.0/apache-jena-3.3.0/lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ajmi/neonWorkspace/TestRDB/lib/arq-2.8.7.jar/arq-2.8.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ajmi/neonWorkspace/TestRDB/lib/align/lib/jdbc/mysql-connector-java.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ajmi/neonWorkspace/TestRDB/lib/poi-3.15/poi-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ajmi/neonWorkspace/TestRDB/lib/poi-3.15/poi-examples-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ajmi/neonWorkspace/TestRDB/lib/poi-3.15/poi-excelant-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ajmi/neonWorkspace/TestRDB/lib/poi-3.15/poi-ooxml-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ajmi/neonWorkspace/TestRDB/lib/poi-3.15/poi-ooxml-schemas-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ajmi/neonWorkspace/TestRDB/lib/poi-3.15/poi-scratchpad-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ajmi/neonWorkspace/TestRDB/lib/tika-app-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ajmi/neonWorkspace/TestRDB/lib/jdom-2.0.6/jdom-2.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ajmi/neonWorkspace/TestRDB/lib/jdom-2.0.6/jdom-2.0.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ajmi/neonWorkspace/TestRDB/lib/jdom-2.0.6/jdom-2.0.6-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ajmi/neonWorkspace/TestRDB/lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ajmi/neonWorkspace/TestRDB/lib/dom4j.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ajmi/neonWorkspace/TestRDB/lib/elk.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ajmi/neonWorkspace/TestRDB/lib/gephi-toolkit.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ajmi/neonWorkspace/TestRDB/lib/jaws.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ajmi/neonWorkspace/TestRDB/lib/libstemmer.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ajmi/neonWorkspace/TestRDB/lib/microsoft-translator.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ajmi/neonWorkspace/TestRDB/lib/owlapi.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ajmi/neonWorkspace/TestRDB/lib/simmetrics.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ajmi/neonWorkspace/TestRDB/lib/swingx-all-1.6.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ajmi/neonWorkspace/TestRDB/lib/align/lib/align.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ajmi/neonWorkspace/TestRDB/lib/align/lib/alignsvc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ajmi/neonWorkspace/TestRDB/lib/align/lib/ontowrap.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ajmi/neonWorkspace/TestRDB/lib/align/lib/procalign.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ajmi/neonWorkspace/TestRDB/lib/jdom-2.0.6/jdom-2.0.6-contrib.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ajmi/neonWorkspace/TestRDB/lib/jdom-2.0.6/jdom-2.0.6-junit.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<accessrules>
+			<accessrule kind="accessible" pattern="javafx/**"/>
+		</accessrules>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JavaFx">
+		<accessrules>
+			<accessrule kind="accessible" pattern="&apos;javafx/**&apos;"/>
+			<accessrule kind="accessible" pattern="&apos;jfoenix/**&apos;"/>
+			<accessrule kind="accessible" pattern="&apos;javafx/fxml/**&apos;"/>
+		</accessrules>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Ajmi/neonWorkspace/TestRDB/lib/jfoenix.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

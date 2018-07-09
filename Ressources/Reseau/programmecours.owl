@@ -1,0 +1,148 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://www.ontologie.fr/programmecours#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <owl:Class rdf:about="http://www.ontologie.fr/programmecours#Microeconomics_I">
+    
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/programmecours#Labour_Economics">
+    <j.0:href xml:lang="xsd:string">w_det_cours_debut_p_code_cours_S210009grtri_12899</j.0:href>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/programmecours#Universite_de_Geneve">
+    <j.0:href xml:lang="xsd:string">http:__www_unige_ch</j.0:href>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/programmecours#Numerical_Methods_I">
+    <j.0:href xml:lang="xsd:string">w_det_cours_debut_p_code_cours_S203039grtri_12899</j.0:href>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/programmecours#Projet_de_recherche_en_economie_et_en_econometrie">
+    <j.0:href xml:lang="xsd:string">w_det_cours_debut_p_code_cours_S202042grtri_12898</j.0:href>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/programmecours#Optimisation_et_gestion_des_operations">
+    <j.0:href xml:lang="xsd:string">w_det_cours_debut_p_code_cours_S230007grtri_12899</j.0:href>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/programmecours#Statistical_Modelling">
+    <j.0:href xml:lang="xsd:string">w_det_cours_debut_p_code_cours_S201008grtri_12899</j.0:href>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/programmecours#Chercher">
+    <j.0:href xml:lang="xsd:string">javascript:document_forms[_formsearch_]_submit___</j.0:href>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/programmecours#Intranet">
+    <j.0:href xml:lang="xsd:string">http:__www_unige_ch_outils_intranet_</j.0:href>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/programmecours#Development_Economics">
+    <j.0:href xml:lang="xsd:string">w_det_cours_debut_p_code_cours_S202039grtri_12899</j.0:href>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/programmecours#Numerical_Methods_II">
+    <j.0:href xml:lang="xsd:string">w_det_cours_debut_p_code_cours_S210007grtri_12899</j.0:href>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/programmecours#Introduction_to_Econometrics_Donne_sur_la_2eme_partie_du_semestre">
+    <j.0:href xml:lang="xsd:string">w_det_cours_debut_p_code_cours_S210021grtri_12898</j.0:href>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/programmecours#Environmental_and_Resource_Economics">
+    <j.0:href xml:lang="xsd:string">w_det_cours_debut_p_code_cours_S210008grtri_12899</j.0:href>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/programmecours#Faculte">
+    <j.0:href xml:lang="xsd:string">w_rech_cours_rech_fac_p_annee_2017</j.0:href>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/programmecours#Archive">
+    <j.0:href xml:lang="xsd:string">w_rech_cours_rech_archive</j.0:href>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/programmecours#Analyse_des_etats_financiers">
+    <j.0:href xml:lang="xsd:string">w_det_cours_debut_p_code_cours_S220002grtri_12898</j.0:href>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/programmecours#Theme">
+    <j.0:href xml:lang="xsd:string">w_rech_cours_rech_dom_p_annee_2017</j.0:href>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/programmecours#International_Management">
+    <j.0:href xml:lang="xsd:string">w_det_cours_debut_p_code_cours_S230005grtri_12899</j.0:href>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/programmecours#Probability_and_Statistics_II">
+    <j.0:href xml:lang="xsd:string">w_det_cours_debut_p_code_cours_S203031grtri_12898</j.0:href>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/programmecours#L_economie_contemporaine_dans_une_perspective_historique">
+    <j.0:href xml:lang="xsd:string">w_det_cours_debut_p_code_cours_S202025grtri_12899</j.0:href>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/programmecours#Mathematiques_II">
+    <j.0:href xml:lang="xsd:string">w_det_cours_debut_p_code_cours_S203043grtri_12898</j.0:href>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/programmecours#Document"/>
+  <owl:Class rdf:about="http://www.ontologie.fr/programmecours#Histoire_economique_et_sociale_de_l_epoque_moderne_Early_modern_economic_and_social_history">
+    <j.0:href xml:lang="xsd:string">w_det_cours_debut_p_code_cours_T208017grtri_12899</j.0:href>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/programmecours#">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Ontology"/>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/programmecours#Code___nom_cours">
+    <j.0:href xml:lang="xsd:string">w_rech_cours_rech_code_p_annee_2017</j.0:href>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/programmecours#http:__example_com_"/>
+  <owl:Class rdf:about="http://www.ontologie.fr/programmecours#__Programme_des_cours">
+    <j.0:href xml:lang="xsd:string">http:__www_unige_ch_progcours_html</j.0:href>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/programmecours#Macroeconomie">
+    <j.0:href xml:lang="xsd:string">w_det_cours_debut_p_code_cours_S210012grtri_12898</j.0:href>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/programmecours#Econometrics">
+    <j.0:href xml:lang="xsd:string">w_det_cours_debut_p_code_cours_S203029grtri_12898</j.0:href>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/programmecours#Prog_cours"/>
+  <owl:Class rdf:about="http://www.ontologie.fr/programmecours#Enseignant">
+    <j.0:href xml:lang="xsd:string">w_rech_cours_rech_prof_p_annee_2017</j.0:href>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/programmecours#Introduction_generale_e_la_fiscalite_Donne_sur_la_1ere_partie_du_semestre">
+    <j.0:href xml:lang="xsd:string">w_det_cours_debut_p_code_cours_S240002grtri_12899</j.0:href>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/programmecours#Statistics_I_Donne_sur_la_1ere_partie_du_semestre">
+    <j.0:href xml:lang="xsd:string">w_det_cours_debut_p_code_cours_S210016grtri_12898</j.0:href>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/programmecours#Histoire_economique_et_sociale_des_pays_en_voie_de_developpement">
+    <j.0:href xml:lang="xsd:string">w_det_cours_debut_p_code_cours_T208014grtri_12899</j.0:href>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/programmecours#Histoire_economique_internationale">
+    <j.0:href xml:lang="xsd:string">w_det_cours_debut_p_code_cours_J2H220grtri_12899</j.0:href>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/programmecours#Home">
+    <j.0:href xml:lang="xsd:string">http:__www_unige_ch_</j.0:href>
+  </owl:Class>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/programmecours#is_Title">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/programmecours#Document"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/programmecours#Prog_cours"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/programmecours#is_a">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/programmecours#Prog_cours"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/programmecours#managedby">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/programmecours#Prog_cours"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/programmecours#hastitle">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/programmecours#Prog_cours"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/programmecours#hassubject">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/programmecours#Prog_cours"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/programmecours#has_category">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/programmecours#Prog_cours"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/programmecours#belongsto">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/programmecours#Prog_cours"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/programmecours#is_Path">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/programmecours#Document"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/programmecours#Prog_cours"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/programmecours#hasdescription">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/programmecours#Prog_cours"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/programmecours#haskeywords">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/programmecours#Prog_cours"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/programmecours#createdBy">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/programmecours#"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/programmecours#Prog_cours"/>
+  </owl:ObjectProperty>
+  <owl:DatatypeProperty rdf:about="http://www.ontologie.fr/programmecours#href">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/programmecours#Statistical_Modelling"/>
+  </owl:DatatypeProperty>
+</rdf:RDF>

@@ -1,0 +1,117 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <owl:Ontology rdf:about="http://www.ontologie.fr/monxmlfaculties#"/>
+  <owl:Class rdf:about="http://www.ontologie.fr/monxmlfaculties#lib_fr"/>
+  <owl:Class rdf:about="http://www.ontologie.fr/monxmlfaculties#nip"/>
+  <owl:Class rdf:about="http://www.ontologie.fr/monxmlfaculties#lib_en"/>
+  <owl:Class rdf:about="http://www.ontologie.fr/monxmlfaculties#qualifaacsb2013"/>
+  <owl:Class rdf:about="http://www.ontologie.fr/monxmlfaculties#code"/>
+  <owl:Class rdf:about="http://www.ontologie.fr/monxmlfaculties#typefac"/>
+  <owl:Class rdf:about="http://www.ontologie.fr/monxmlfaculties#firstname"/>
+  <owl:Class rdf:about="http://www.ontologie.fr/monxmlfaculties#disciplin"/>
+  <owl:Class rdf:about="http://www.ontologie.fr/monxmlfaculties#lastname"/>
+  <owl:Class rdf:about="http://www.ontologie.fr/monxmlfaculties#titrefac"/>
+  <owl:Class rdf:about="http://www.ontologie.fr/monxmlfaculties#officenumber"/>
+  <owl:Class rdf:about="http://www.ontologie.fr/monxmlfaculties#tel"/>
+  <owl:Class rdf:about="http://www.ontologie.fr/monxmlfaculties#professor"/>
+  <owl:Class rdf:about="http://www.ontologie.fr/monxmlfaculties#unit"/>
+  <owl:Class rdf:about="http://www.ontologie.fr/monxmlfaculties#cataacsb"/>
+  <owl:Class rdf:about="http://www.ontologie.fr/monxmlfaculties#usualname"/>
+  <owl:Class rdf:about="http://www.ontologie.fr/monxmlfaculties#campus"/>
+  <owl:Class rdf:about="http://www.ontologie.fr/monxmlfaculties#typeunit"/>
+  <owl:Class rdf:about="http://www.ontologie.fr/monxmlfaculties#id"/>
+  <owl:Class rdf:about="http://www.ontologie.fr/monxmlfaculties#sigle"/>
+  <owl:Class rdf:about="http://www.ontologie.fr/monxmlfaculties#email"/>
+  <owl:Class rdf:about="http://www.ontologie.fr/monxmlfaculties#salutation"/>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monxmlfaculties#tel_Attribute">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monxmlfaculties#professor"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monxmlfaculties#tel"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monxmlfaculties#id_Attribute">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monxmlfaculties#professor"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monxmlfaculties#id"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monxmlfaculties#titrefac_Attribute">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monxmlfaculties#professor"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monxmlfaculties#titrefac"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monxmlfaculties#unit_Attribute">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monxmlfaculties#professor"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monxmlfaculties#unit"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monxmlfaculties#lib_enAttribute">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monxmlfaculties#cataacsb"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monxmlfaculties#lib_en"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monxmlfaculties#disciplin_Attribute">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monxmlfaculties#professor"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monxmlfaculties#disciplin"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monxmlfaculties#campus_Attribute">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monxmlfaculties#professor"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monxmlfaculties#campus"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monxmlfaculties#officenumber_Attribute">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monxmlfaculties#professor"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monxmlfaculties#officenumber"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monxmlfaculties#cataacsb_Attribute">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monxmlfaculties#professor"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monxmlfaculties#cataacsb"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monxmlfaculties#usualname_Attribute">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monxmlfaculties#professor"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monxmlfaculties#usualname"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monxmlfaculties#sigleAttribute">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monxmlfaculties#campus"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monxmlfaculties#sigle"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monxmlfaculties#codeAttribute">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monxmlfaculties#cataacsb"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monxmlfaculties#code"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monxmlfaculties#typefac_Attribute">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monxmlfaculties#professor"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monxmlfaculties#typefac"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monxmlfaculties#firstname_Attribute">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monxmlfaculties#professor"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monxmlfaculties#firstname"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monxmlfaculties#qualifaacsb2013_Attribute">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monxmlfaculties#professor"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monxmlfaculties#qualifaacsb2013"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monxmlfaculties#lastname_Attribute">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monxmlfaculties#professor"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monxmlfaculties#lastname"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monxmlfaculties#nip_Attribute">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monxmlfaculties#professor"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monxmlfaculties#nip"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monxmlfaculties#idAttribute">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monxmlfaculties#unit"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monxmlfaculties#id"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monxmlfaculties#salutation_Attribute">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monxmlfaculties#professor"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monxmlfaculties#salutation"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monxmlfaculties#email_Attribute">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monxmlfaculties#professor"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monxmlfaculties#email"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monxmlfaculties#lib_frAttribute">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monxmlfaculties#cataacsb"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monxmlfaculties#lib_fr"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monxmlfaculties#typeunitAttribute">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monxmlfaculties#unit"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monxmlfaculties#typeunit"/>
+  </owl:ObjectProperty>
+</rdf:RDF>

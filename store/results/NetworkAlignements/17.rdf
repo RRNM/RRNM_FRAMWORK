@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rdf:RDF xmlns='http://knowledgeweb.semanticweb.org/heterogeneity/alignment'
+	 xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' 
+	 xmlns:xsd='http://www.w3.org/2001/XMLSchema#' 
+	 alignmentSource='AgreementMakerLight'>
+
+<Alignment>
+	<xml>yes</xml>
+	<level>0</level>
+	<type>??</type>
+	<onto1>Ressources\Reseau\PLANNING.owl</onto1>
+	<onto2>Ressources\Reseau\CONTRIB.owl</onto2>
+	<uri1>http://www.ontologie.fr/monexcelplan#</uri1>
+	<uri2>http://www.ontologie.fr/monexcel#</uri2>
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/monexcelplan#IOM"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monexcel#IOM"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.99</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/monexcelplan#RCS"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monexcel#RCS"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.99</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/monexcelplan#Gsem"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monexcel#GSEM"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.99</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/monexcelplan#Statistical_Modelling"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monexcel#Statistical_Modelling"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9889</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/monexcelplan#Document"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monexcel#Document"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.988</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/monexcelplan#IEE"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monexcel#IEE"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9877</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/monexcelplan#laurentl"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monexcel#laurentl"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9877</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/monexcelplan#mmenz"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monexcel#mmenz"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9801</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/monexcelplan#cantoni"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monexcel#Cantoni"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9801</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/monexcelplan#cantoni"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monexcel#cantoni"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9801</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/monexcelplan#ambost"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monexcel#ambost"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9801</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/monexcelplan#zufferen"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monexcel#zufferen"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9801</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/monexcelplan#Global_Strategy"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monexcel#Global_Strategy_Journal"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6985</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/monexcelplan#Strategic_Management"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monexcel#Strategic_Management_Journal"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6609</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/monexcelplan#International_Management"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monexcel#Journal_of_International_Management"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6371</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/monexcelplan#Longitudinal_Data_Analysis"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monexcel#A_robust_approach_to_longitudinal_data_analysis"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6167</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+</Alignment>
+</rdf:RDF>

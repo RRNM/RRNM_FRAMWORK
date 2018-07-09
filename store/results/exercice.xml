@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OntologiesNetwork>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\CATALOG.owl" uri="http://www.ontologie.fr/monexcel#" />
+    <Onto2 Path="Ressources/Profile/GSEMOnto.owl" uri="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology" source="Ressources/Profile/GSEMOnto.owl" />
+    <AL Path="Store\results\ProfileAlignments\1.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\CONTRIB.owl" uri="http://www.ontologie.fr/monexcel#" />
+    <Onto2 Path="Ressources/Profile/GSEMOnto.owl" uri="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology" source="Ressources/Profile/GSEMOnto.owl" />
+    <AL Path="Store\results\ProfileAlignments\2.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\DB.owl" uri="http://www.ontologie.fr/mydatabase#" />
+    <Onto2 Path="Ressources/Profile/GSEMOnto.owl" uri="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology" source="Ressources/Profile/GSEMOnto.owl" />
+    <AL Path="Store\results\ProfileAlignments\3.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\Faculties.owl" uri="http://www.ontologie.fr/monxmlfaculties#" />
+    <Onto2 Path="Ressources/Profile/GSEMOnto.owl" uri="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology" source="Ressources/Profile/GSEMOnto.owl" />
+    <AL Path="Store\results\ProfileAlignments\4.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\LesEXCGSEM190218.owl" uri="http://www.ontologie.fr/monexcelEXC#" />
+    <Onto2 Path="Ressources/Profile/GSEMOnto.owl" uri="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology" source="Ressources/Profile/GSEMOnto.owl" />
+    <AL Path="Store\results\ProfileAlignments\5.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\LibellesGSEM-190218.owl" uri="http://www.ontologie.fr/monexcelLib#" />
+    <Onto2 Path="Ressources/Profile/GSEMOnto.owl" uri="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology" source="Ressources/Profile/GSEMOnto.owl" />
+    <AL Path="Store\results\ProfileAlignments\6.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\PLANNING.owl" uri="http://www.ontologie.fr/monexcelplan#" />
+    <Onto2 Path="Ressources/Profile/GSEMOnto.owl" uri="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology" source="Ressources/Profile/GSEMOnto.owl" />
+    <AL Path="Store\results\ProfileAlignments\7.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\Profs.owl" uri="http://www.ontologie.fr/prof#" />
+    <Onto2 Path="Ressources/Profile/GSEMOnto.owl" uri="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology" source="Ressources/Profile/GSEMOnto.owl" />
+    <AL Path="Store\results\ProfileAlignments\8.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\programmecours.owl" uri="http://www.ontologie.fr/programmecours#" />
+    <Onto2 Path="Ressources/Profile/GSEMOnto.owl" uri="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology" source="Ressources/Profile/GSEMOnto.owl" />
+    <AL Path="Store\results\ProfileAlignments\9.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\toutLesLibellesGSEM-190218.owl" uri="http://www.ontologie.fr/monexcelLib#" />
+    <Onto2 Path="Ressources/Profile/GSEMOnto.owl" uri="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology" source="Ressources/Profile/GSEMOnto.owl" />
+    <AL Path="Store\results\ProfileAlignments\10.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\UNIT.owl" uri="http://www.ontologie.fr/monexcel#" />
+    <Onto2 Path="Ressources/Profile/GSEMOnto.owl" uri="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology" source="Ressources/Profile/GSEMOnto.owl" />
+    <AL Path="Store\results\ProfileAlignments\11.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\Web.owl" uri="http://www.ontologie.fr/monhtml#" />
+    <Onto2 Path="Ressources/Profile/GSEMOnto.owl" uri="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology" source="Ressources/Profile/GSEMOnto.owl" />
+    <AL Path="Store\results\ProfileAlignments\12.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\CONTRIB.owl" uri="http://www.ontologie.fr/monexcel#" />
+    <Onto2 Path="Ressources\Reseau\CATALOG.owl" uri="http://www.ontologie.fr/monexcel#" source="Ressources\Reseau\CATALOG.owl" />
+    <AL Path="Store\results\NetworkAlignements\1.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\DB.owl" uri="http://www.ontologie.fr/mydatabase#" />
+    <Onto2 Path="Ressources\Reseau\CATALOG.owl" uri="http://www.ontologie.fr/monexcel#" source="Ressources\Reseau\CATALOG.owl" />
+    <AL Path="Store\results\NetworkAlignements\2.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\Faculties.owl" uri="http://www.ontologie.fr/monxmlfaculties#" />
+    <Onto2 Path="Ressources\Reseau\CATALOG.owl" uri="http://www.ontologie.fr/monexcel#" source="Ressources\Reseau\CATALOG.owl" />
+    <AL Path="Store\results\NetworkAlignements\4.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\Faculties.owl" uri="http://www.ontologie.fr/monxmlfaculties#" />
+    <Onto2 Path="Ressources\Reseau\DB.owl" uri="http://www.ontologie.fr/mydatabase#" source="Ressources\Reseau\DB.owl" />
+    <AL Path="Store\results\NetworkAlignements\6.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\LesEXCGSEM190218.owl" uri="http://www.ontologie.fr/monexcelEXC#" />
+    <Onto2 Path="Ressources\Reseau\CATALOG.owl" uri="http://www.ontologie.fr/monexcel#" source="Ressources\Reseau\CATALOG.owl" />
+    <AL Path="Store\results\NetworkAlignements\7.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\LesEXCGSEM190218.owl" uri="http://www.ontologie.fr/monexcelEXC#" />
+    <Onto2 Path="Ressources\Reseau\CONTRIB.owl" uri="http://www.ontologie.fr/monexcel#" source="Ressources\Reseau\CONTRIB.owl" />
+    <AL Path="Store\results\NetworkAlignements\8.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\LibellesGSEM-190218.owl" uri="http://www.ontologie.fr/monexcelLib#" />
+    <Onto2 Path="Ressources\Reseau\CATALOG.owl" uri="http://www.ontologie.fr/monexcel#" source="Ressources\Reseau\CATALOG.owl" />
+    <AL Path="Store\results\NetworkAlignements\11.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\LibellesGSEM-190218.owl" uri="http://www.ontologie.fr/monexcelLib#" />
+    <Onto2 Path="Ressources\Reseau\CONTRIB.owl" uri="http://www.ontologie.fr/monexcel#" source="Ressources\Reseau\CONTRIB.owl" />
+    <AL Path="Store\results\NetworkAlignements\12.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\LibellesGSEM-190218.owl" uri="http://www.ontologie.fr/monexcelLib#" />
+    <Onto2 Path="Ressources\Reseau\LesEXCGSEM190218.owl" uri="http://www.ontologie.fr/monexcelEXC#" source="Ressources\Reseau\LesEXCGSEM190218.owl" />
+    <AL Path="Store\results\NetworkAlignements\15.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\PLANNING.owl" uri="http://www.ontologie.fr/monexcelplan#" />
+    <Onto2 Path="Ressources\Reseau\CATALOG.owl" uri="http://www.ontologie.fr/monexcel#" source="Ressources\Reseau\CATALOG.owl" />
+    <AL Path="Store\results\NetworkAlignements\16.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\PLANNING.owl" uri="http://www.ontologie.fr/monexcelplan#" />
+    <Onto2 Path="Ressources\Reseau\CONTRIB.owl" uri="http://www.ontologie.fr/monexcel#" source="Ressources\Reseau\CONTRIB.owl" />
+    <AL Path="Store\results\NetworkAlignements\17.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\PLANNING.owl" uri="http://www.ontologie.fr/monexcelplan#" />
+    <Onto2 Path="Ressources\Reseau\LesEXCGSEM190218.owl" uri="http://www.ontologie.fr/monexcelEXC#" source="Ressources\Reseau\LesEXCGSEM190218.owl" />
+    <AL Path="Store\results\NetworkAlignements\20.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\PLANNING.owl" uri="http://www.ontologie.fr/monexcelplan#" />
+    <Onto2 Path="Ressources\Reseau\LibellesGSEM-190218.owl" uri="http://www.ontologie.fr/monexcelLib#" source="Ressources\Reseau\LibellesGSEM-190218.owl" />
+    <AL Path="Store\results\NetworkAlignements\21.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\Profs.owl" uri="http://www.ontologie.fr/prof#" />
+    <Onto2 Path="Ressources\Reseau\CATALOG.owl" uri="http://www.ontologie.fr/monexcel#" source="Ressources\Reseau\CATALOG.owl" />
+    <AL Path="Store\results\NetworkAlignements\22.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\Profs.owl" uri="http://www.ontologie.fr/prof#" />
+    <Onto2 Path="Ressources\Reseau\CONTRIB.owl" uri="http://www.ontologie.fr/monexcel#" source="Ressources\Reseau\CONTRIB.owl" />
+    <AL Path="Store\results\NetworkAlignements\23.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\Profs.owl" uri="http://www.ontologie.fr/prof#" />
+    <Onto2 Path="Ressources\Reseau\DB.owl" uri="http://www.ontologie.fr/mydatabase#" source="Ressources\Reseau\DB.owl" />
+    <AL Path="Store\results\NetworkAlignements\24.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\Profs.owl" uri="http://www.ontologie.fr/prof#" />
+    <Onto2 Path="Ressources\Reseau\Faculties.owl" uri="http://www.ontologie.fr/monxmlfaculties#" source="Ressources\Reseau\Faculties.owl" />
+    <AL Path="Store\results\NetworkAlignements\25.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\Profs.owl" uri="http://www.ontologie.fr/prof#" />
+    <Onto2 Path="Ressources\Reseau\LesEXCGSEM190218.owl" uri="http://www.ontologie.fr/monexcelEXC#" source="Ressources\Reseau\LesEXCGSEM190218.owl" />
+    <AL Path="Store\results\NetworkAlignements\26.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\Profs.owl" uri="http://www.ontologie.fr/prof#" />
+    <Onto2 Path="Ressources\Reseau\LibellesGSEM-190218.owl" uri="http://www.ontologie.fr/monexcelLib#" source="Ressources\Reseau\LibellesGSEM-190218.owl" />
+    <AL Path="Store\results\NetworkAlignements\27.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\Profs.owl" uri="http://www.ontologie.fr/prof#" />
+    <Onto2 Path="Ressources\Reseau\PLANNING.owl" uri="http://www.ontologie.fr/monexcelplan#" source="Ressources\Reseau\PLANNING.owl" />
+    <AL Path="Store\results\NetworkAlignements\28.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\programmecours.owl" uri="http://www.ontologie.fr/programmecours#" />
+    <Onto2 Path="Ressources\Reseau\CATALOG.owl" uri="http://www.ontologie.fr/monexcel#" source="Ressources\Reseau\CATALOG.owl" />
+    <AL Path="Store\results\NetworkAlignements\29.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\programmecours.owl" uri="http://www.ontologie.fr/programmecours#" />
+    <Onto2 Path="Ressources\Reseau\CONTRIB.owl" uri="http://www.ontologie.fr/monexcel#" source="Ressources\Reseau\CONTRIB.owl" />
+    <AL Path="Store\results\NetworkAlignements\30.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\programmecours.owl" uri="http://www.ontologie.fr/programmecours#" />
+    <Onto2 Path="Ressources\Reseau\DB.owl" uri="http://www.ontologie.fr/mydatabase#" source="Ressources\Reseau\DB.owl" />
+    <AL Path="Store\results\NetworkAlignements\31.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\programmecours.owl" uri="http://www.ontologie.fr/programmecours#" />
+    <Onto2 Path="Ressources\Reseau\Faculties.owl" uri="http://www.ontologie.fr/monxmlfaculties#" source="Ressources\Reseau\Faculties.owl" />
+    <AL Path="Store\results\NetworkAlignements\32.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\programmecours.owl" uri="http://www.ontologie.fr/programmecours#" />
+    <Onto2 Path="Ressources\Reseau\LesEXCGSEM190218.owl" uri="http://www.ontologie.fr/monexcelEXC#" source="Ressources\Reseau\LesEXCGSEM190218.owl" />
+    <AL Path="Store\results\NetworkAlignements\33.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\programmecours.owl" uri="http://www.ontologie.fr/programmecours#" />
+    <Onto2 Path="Ressources\Reseau\LibellesGSEM-190218.owl" uri="http://www.ontologie.fr/monexcelLib#" source="Ressources\Reseau\LibellesGSEM-190218.owl" />
+    <AL Path="Store\results\NetworkAlignements\34.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\programmecours.owl" uri="http://www.ontologie.fr/programmecours#" />
+    <Onto2 Path="Ressources\Reseau\PLANNING.owl" uri="http://www.ontologie.fr/monexcelplan#" source="Ressources\Reseau\PLANNING.owl" />
+    <AL Path="Store\results\NetworkAlignements\35.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\programmecours.owl" uri="http://www.ontologie.fr/programmecours#" />
+    <Onto2 Path="Ressources\Reseau\Profs.owl" uri="http://www.ontologie.fr/prof#" source="Ressources\Reseau\Profs.owl" />
+    <AL Path="Store\results\NetworkAlignements\36.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\toutLesLibellesGSEM-190218.owl" uri="http://www.ontologie.fr/monexcelLib#" />
+    <Onto2 Path="Ressources\Reseau\CATALOG.owl" uri="http://www.ontologie.fr/monexcel#" source="Ressources\Reseau\CATALOG.owl" />
+    <AL Path="Store\results\NetworkAlignements\37.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\toutLesLibellesGSEM-190218.owl" uri="http://www.ontologie.fr/monexcelLib#" />
+    <Onto2 Path="Ressources\Reseau\CONTRIB.owl" uri="http://www.ontologie.fr/monexcel#" source="Ressources\Reseau\CONTRIB.owl" />
+    <AL Path="Store\results\NetworkAlignements\38.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\toutLesLibellesGSEM-190218.owl" uri="http://www.ontologie.fr/monexcelLib#" />
+    <Onto2 Path="Ressources\Reseau\LesEXCGSEM190218.owl" uri="http://www.ontologie.fr/monexcelEXC#" source="Ressources\Reseau\LesEXCGSEM190218.owl" />
+    <AL Path="Store\results\NetworkAlignements\41.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\toutLesLibellesGSEM-190218.owl" uri="http://www.ontologie.fr/monexcelLib#" />
+    <Onto2 Path="Ressources\Reseau\LibellesGSEM-190218.owl" uri="http://www.ontologie.fr/monexcelLib#" source="Ressources\Reseau\LibellesGSEM-190218.owl" />
+    <AL Path="Store\results\NetworkAlignements\42.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\toutLesLibellesGSEM-190218.owl" uri="http://www.ontologie.fr/monexcelLib#" />
+    <Onto2 Path="Ressources\Reseau\PLANNING.owl" uri="http://www.ontologie.fr/monexcelplan#" source="Ressources\Reseau\PLANNING.owl" />
+    <AL Path="Store\results\NetworkAlignements\43.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\toutLesLibellesGSEM-190218.owl" uri="http://www.ontologie.fr/monexcelLib#" />
+    <Onto2 Path="Ressources\Reseau\Profs.owl" uri="http://www.ontologie.fr/prof#" source="Ressources\Reseau\Profs.owl" />
+    <AL Path="Store\results\NetworkAlignements\44.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\toutLesLibellesGSEM-190218.owl" uri="http://www.ontologie.fr/monexcelLib#" />
+    <Onto2 Path="Ressources\Reseau\programmecours.owl" uri="http://www.ontologie.fr/programmecours#" source="Ressources\Reseau\programmecours.owl" />
+    <AL Path="Store\results\NetworkAlignements\45.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\UNIT.owl" uri="http://www.ontologie.fr/monexcel#" />
+    <Onto2 Path="Ressources\Reseau\CATALOG.owl" uri="http://www.ontologie.fr/monexcel#" source="Ressources\Reseau\CATALOG.owl" />
+    <AL Path="Store\results\NetworkAlignements\46.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\UNIT.owl" uri="http://www.ontologie.fr/monexcel#" />
+    <Onto2 Path="Ressources\Reseau\Faculties.owl" uri="http://www.ontologie.fr/monxmlfaculties#" source="Ressources\Reseau\Faculties.owl" />
+    <AL Path="Store\results\NetworkAlignements\49.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\UNIT.owl" uri="http://www.ontologie.fr/monexcel#" />
+    <Onto2 Path="Ressources\Reseau\LesEXCGSEM190218.owl" uri="http://www.ontologie.fr/monexcelEXC#" source="Ressources\Reseau\LesEXCGSEM190218.owl" />
+    <AL Path="Store\results\NetworkAlignements\50.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\UNIT.owl" uri="http://www.ontologie.fr/monexcel#" />
+    <Onto2 Path="Ressources\Reseau\LibellesGSEM-190218.owl" uri="http://www.ontologie.fr/monexcelLib#" source="Ressources\Reseau\LibellesGSEM-190218.owl" />
+    <AL Path="Store\results\NetworkAlignements\51.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\UNIT.owl" uri="http://www.ontologie.fr/monexcel#" />
+    <Onto2 Path="Ressources\Reseau\PLANNING.owl" uri="http://www.ontologie.fr/monexcelplan#" source="Ressources\Reseau\PLANNING.owl" />
+    <AL Path="Store\results\NetworkAlignements\52.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\UNIT.owl" uri="http://www.ontologie.fr/monexcel#" />
+    <Onto2 Path="Ressources\Reseau\Profs.owl" uri="http://www.ontologie.fr/prof#" source="Ressources\Reseau\Profs.owl" />
+    <AL Path="Store\results\NetworkAlignements\53.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\UNIT.owl" uri="http://www.ontologie.fr/monexcel#" />
+    <Onto2 Path="Ressources\Reseau\programmecours.owl" uri="http://www.ontologie.fr/programmecours#" source="Ressources\Reseau\programmecours.owl" />
+    <AL Path="Store\results\NetworkAlignements\54.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\UNIT.owl" uri="http://www.ontologie.fr/monexcel#" />
+    <Onto2 Path="Ressources\Reseau\toutLesLibellesGSEM-190218.owl" uri="http://www.ontologie.fr/monexcelLib#" source="Ressources\Reseau\toutLesLibellesGSEM-190218.owl" />
+    <AL Path="Store\results\NetworkAlignements\55.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\Web.owl" uri="http://www.ontologie.fr/monhtml#" />
+    <Onto2 Path="Ressources\Reseau\CATALOG.owl" uri="http://www.ontologie.fr/monexcel#" source="Ressources\Reseau\CATALOG.owl" />
+    <AL Path="Store\results\NetworkAlignements\56.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\Web.owl" uri="http://www.ontologie.fr/monhtml#" />
+    <Onto2 Path="Ressources\Reseau\CONTRIB.owl" uri="http://www.ontologie.fr/monexcel#" source="Ressources\Reseau\CONTRIB.owl" />
+    <AL Path="Store\results\NetworkAlignements\57.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\Web.owl" uri="http://www.ontologie.fr/monhtml#" />
+    <Onto2 Path="Ressources\Reseau\LesEXCGSEM190218.owl" uri="http://www.ontologie.fr/monexcelEXC#" source="Ressources\Reseau\LesEXCGSEM190218.owl" />
+    <AL Path="Store\results\NetworkAlignements\60.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\Web.owl" uri="http://www.ontologie.fr/monhtml#" />
+    <Onto2 Path="Ressources\Reseau\LibellesGSEM-190218.owl" uri="http://www.ontologie.fr/monexcelLib#" source="Ressources\Reseau\LibellesGSEM-190218.owl" />
+    <AL Path="Store\results\NetworkAlignements\61.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\Web.owl" uri="http://www.ontologie.fr/monhtml#" />
+    <Onto2 Path="Ressources\Reseau\PLANNING.owl" uri="http://www.ontologie.fr/monexcelplan#" source="Ressources\Reseau\PLANNING.owl" />
+    <AL Path="Store\results\NetworkAlignements\62.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\Web.owl" uri="http://www.ontologie.fr/monhtml#" />
+    <Onto2 Path="Ressources\Reseau\Profs.owl" uri="http://www.ontologie.fr/prof#" source="Ressources\Reseau\Profs.owl" />
+    <AL Path="Store\results\NetworkAlignements\63.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\Web.owl" uri="http://www.ontologie.fr/monhtml#" />
+    <Onto2 Path="Ressources\Reseau\programmecours.owl" uri="http://www.ontologie.fr/programmecours#" source="Ressources\Reseau\programmecours.owl" />
+    <AL Path="Store\results\NetworkAlignements\64.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\Web.owl" uri="http://www.ontologie.fr/monhtml#" />
+    <Onto2 Path="Ressources\Reseau\toutLesLibellesGSEM-190218.owl" uri="http://www.ontologie.fr/monexcelLib#" source="Ressources\Reseau\toutLesLibellesGSEM-190218.owl" />
+    <AL Path="Store\results\NetworkAlignements\65.rdf" />
+  </Couple>
+  <Couple>
+    <Onto1 Path="Ressources\Reseau\Web.owl" uri="http://www.ontologie.fr/monhtml#" />
+    <Onto2 Path="Ressources\Reseau\UNIT.owl" uri="http://www.ontologie.fr/monexcel#" source="Ressources\Reseau\UNIT.owl" />
+    <AL Path="Store\results\NetworkAlignements\66.rdf" />
+  </Couple>
+  
+</OntologiesNetwork>

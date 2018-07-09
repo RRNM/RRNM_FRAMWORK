@@ -1,0 +1,820 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <owl:Ontology rdf:about="http://www.ontologie.fr/monexcel#"/>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#RCS">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#UE_deliverymode">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Research_Project_in_Management">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#GSEM">
+    <rdfs:label></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#OPE">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Microeconomics_II">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#UE_unit">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Generalized_Linear_and_Additive_Models">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Introduction_to_Management_">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#MAN">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Global_Strategy">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#UE_lib1c">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#STR">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Optimization_and_Operations_Management">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Gestion_de_la_production_et_des_stocks">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Master_thesis_in_statistics">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#International_Management">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#STAT">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Operations_Management">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#ECO">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#UE_nbhe">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#UE_cdis">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Production_Management_and_Logistics">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#formations">
+    <rdfs:label></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Document">
+    <rdfs:label xml:lang="en"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Corporate_Governance__amp__Strategic_Leadership">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Introduction_to_Microeconomics">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#UE_lib2c">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#UE_lib1">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#UE_code">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Management_Innovation">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Teaching_Statistics">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#UE_clang">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#01">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#UE_ctypue">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Introduction_à_la_microéconomie">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Environmental_economics">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#NA">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Carine">
+    <rdfs:label></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Projet_de_recherche_en_gestion_d_apos_entreprise_">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Optimisation_et_gestion_des_opérations">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Research_Seminar_in_statistics">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Prescriptive_Analytics">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Statistics_I">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Advanced_Topics_in_Survey_Methods">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#ACADEM_Catalol">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#UE_lib2">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#IEE">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#IOM">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Copie_de_CATALOG.xlsx">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row18_Colum3">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#01"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row8_Colum2">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Teaching_Statistics"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row9_Colum10">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#01"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Titles_Row6_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Statistics_I"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row1_Colum3">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#01"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#managedby">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row3_Colum10">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#01"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Titles_Row0_Colum4">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#UE_cdis"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row10_Colum2">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Microeconomics_II"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row17_Colum9">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row6_Colum6">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#RCS"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#is_Path">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Document"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#createdBy">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Carine"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row7_Colum8">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row16_Colum7">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#NA"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row12_Colum6">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#IOM"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row4_Colum2">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Generalized_Linear_and_Additive_Models"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row3_Colum8">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row14_Colum2">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Introduction_to_Management_"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row2_Colum6">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#IOM"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row5_Colum4">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#STAT"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row11_Colum4">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#ECO"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#hasdescription">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row13_Colum8">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Titles_Row2_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#International_Management"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row8_Colum3">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#01"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row16_Colum8">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row18_Colum4">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#OPE"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row2_Colum10">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#01"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row17_Colum2">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Prescriptive_Analytics"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row19_Colum10">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#01"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row1_Colum2">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Introduction_to_Microeconomics"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row15_Colum6">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#IOM"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row10_Colum9">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Titles_Row0_Colum5">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#UE_clang"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Titles_Row13_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Management_Innovation"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row7_Colum9">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row4_Colum3">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#01"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row3_Colum9">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Titles_Row17_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Prescriptive_Analytics"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row11_Colum3">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#01"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row19_Colum6">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#IOM"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row14_Colum9">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#belongsto">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row9_Colum4">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#STAT"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row8_Colum10">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#01"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row7_Colum6">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#RCS"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row8_Colum4">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#STAT"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row6_Colum8">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row17_Colum3">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#01"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row18_Colum9">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Titles_Row5_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Master_thesis_in_statistics"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Titles_Row0_Colum2">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#UE_lib2"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row10_Colum4">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#ECO"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row11_Colum10">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#01"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row2_Colum8">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row1_Colum10">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#01"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Titles_Row10_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Microeconomics_II"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row3_Colum6">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#IOM"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#is_Title">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Document"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row4_Colum10">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#01"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row4_Colum4">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#STAT"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row5_Colum2">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Master_thesis_in_statistics"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row12_Colum8">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row14_Colum4">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#STR"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row11_Colum2">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Environmental_economics"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#hassubject">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Titles_Row1_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Introduction_à_la_microéconomie"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row13_Colum6">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#IOM"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row9_Colum3">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#01"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row18_Colum2">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Production_Management_and_Logistics"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row6_Colum9">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row15_Colum8">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_category">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row13_Colum10">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#01"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Titles_Row14_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Introduction_to_Management_"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row17_Colum4">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#OPE"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row10_Colum3">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#01"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Titles_Row0_Colum3">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#UE_ctypue"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row1_Colum4">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#ECO"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Titles_Row18_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Gestion_de_la_production_et_des_stocks"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row16_Colum6">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#IOM"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row18_Colum10">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#01"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row11_Colum9">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row2_Colum9">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row14_Colum3">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#01"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row5_Colum3">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#01"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Titles_Row8_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Teaching_Statistics"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row9_Colum2">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Research_Seminar_in_statistics"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row19_Colum8">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row7_Colum4">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#STAT"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Titles_Row0_Colum0">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#UE_code"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row15_Colum9">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row8_Colum6">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#RCS"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row6_Colum2">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Statistics_I"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row6_Colum10">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#01"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Titles_Row4_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Generalized_Linear_and_Additive_Models"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row16_Colum3">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#01"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Titles_Row0_Colum8">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#UE_lib1c"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row10_Colum6">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#IEE"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row3_Colum4">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#MAN"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row13_Colum4">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#STR"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row11_Colum8">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Titles_Row11_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Environmental_economics"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row9_Colum9">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row14_Colum6">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#IOM"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row5_Colum8">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row2_Colum2">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#International_Management"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row12_Colum2">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Corporate_Governance__amp__Strategic_Leadership"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row19_Colum9">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row4_Colum6">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#RCS"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row16_Colum10">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#01"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#hastitle">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row17_Colum6">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#IOM"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Titles_Row15_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Optimisation_et_gestion_des_opérations"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row19_Colum2">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Operations_Management"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row18_Colum8">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Titles_Row0_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#UE_lib1"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row16_Colum4">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#OPE"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row10_Colum10">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#01"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row1_Colum6">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#IEE"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row15_Colum2">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Optimization_and_Operations_Management"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row6_Colum3">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#01"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row15_Colum10">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#01"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row13_Colum3">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#01"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Titles_Row0_Colum9">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#UE_lib2c"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#haskeywords">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#formations"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row2_Colum3">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#01"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row12_Colum9">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row9_Colum8">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row5_Colum9">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#is_a">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row16_Colum9">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Titles_Row7_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Advanced_Topics_in_Survey_Methods"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row7_Colum2">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Advanced_Topics_in_Survey_Methods"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row8_Colum8">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Titles_Row9_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Research_Seminar_in_statistics"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row17_Colum10">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#01"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row15_Colum3">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#01"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Titles_Row0_Colum6">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#UE_unit"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row10_Colum8">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row1_Colum9">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row6_Colum4">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#STAT"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row14_Colum10">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#01"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Titles_Row19_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Operations_Management"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row7_Colum10">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#01"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Titles_Row3_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Global_Strategy"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row12_Colum4">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#STR"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row13_Colum2">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Management_Innovation"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row2_Colum4">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#MAN"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Titles_Row0_Colum10">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#UE_deliverymode"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row11_Colum6">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#IEE"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row5_Colum6">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#RCS"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row9_Colum7">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#NA"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row19_Colum3">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#01"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row14_Colum8">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row3_Colum2">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Global_Strategy"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row4_Colum8">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row17_Colum8">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row18_Colum6">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#IOM"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row7_Colum3">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#01"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row15_Colum4">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#OPE"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Titles_Row12_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Corporate_Governance__amp__Strategic_Leadership"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row8_Colum9">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row16_Colum2">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Research_Project_in_Management"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Titles_Row0_Colum7">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#UE_nbhe"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row1_Colum8">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row12_Colum10">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#01"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row4_Colum9">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row5_Colum7">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#NA"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Titles_Row16_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#Projet_de_recherche_en_gestion_d_apos_entreprise_"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row13_Colum9">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row9_Colum6">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#RCS"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row19_Colum4">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#OPE"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row5_Colum10">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#01"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row12_Colum3">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#01"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcel#has_Cells_Row3_Colum3">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcel#01"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcel#ACADEM_Catalol"/>
+  </owl:ObjectProperty>
+</rdf:RDF>

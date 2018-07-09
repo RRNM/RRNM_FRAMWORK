@@ -1,0 +1,811 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/ajmi/ontologies/2017/4/untitled-ontology-4"
+     xml:base="http://www.semanticweb.org/ajmi/ontologies/2017/4/untitled-ontology-4"
+     xmlns:GSEMOntology="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:terms="http://purl.org/dc/terms/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:org="http://www.w3.org/ns/org#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:foaf="http://xmlns.com/foaf/0.1/">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology">
+        <owl:imports rdf:resource="http://www.w3.org/ns/org#"/>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#OWLAnnotationProperty_36fde271_1649_41b0_8f08_e51c0e706154 -->
+
+    <owl:AnnotationProperty rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#OWLAnnotationProperty_36fde271_1649_41b0_8f08_e51c0e706154">
+        <rdfs:label xml:lang="fr">acronym</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Approved_by -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Approved_by"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#achieves_a -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#achieves_a"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#belongs_to -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#belongs_to"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#composed_by -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#composed_by"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#contains -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#contains"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#has_a -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#has_a"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#has_reaserch_domain -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#has_reaserch_domain"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#is_a -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#is_a"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#is_in_charge_of -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#is_in_charge_of"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#issued_for -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#issued_for"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#managed_by -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#managed_by"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#produced -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#produced"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#registered_in -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#registered_in"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#supervised_by -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#supervised_by"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#teached_at -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#teached_at"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#teached_in -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#teached_in"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#teaches -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#teaches"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#uses -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#uses"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Academic_Contributions -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Academic_Contributions"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Academic_year -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Academic_year">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#composed_by"/>
+                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
+                <owl:onClass>
+                    <owl:Class>
+                        <owl:intersectionOf rdf:parseType="Collection">
+                            <rdf:Description rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Semestre_automne"/>
+                            <rdf:Description rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Semestre_printemps"/>
+                        </owl:intersectionOf>
+                    </owl:Class>
+                </owl:onClass>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:label xml:lang="fr"></rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Adiminstrateur -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Adiminstrateur">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Personnel_administratif_et_technique"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Assistant -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Assistant">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#is_a"/>
+                <owl:allValuesFrom rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Student"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#registered_in"/>
+                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
+                <owl:onClass rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Doctoral_Programs"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Bachelor_in_Economics_and_Management -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Bachelor_in_Economics_and_Management">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Basic_Education"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Basic_Education -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Basic_Education"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#COMENS -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#COMENS"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Collaborateur -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Collaborateur">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Personnel_administratif_et_technique"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Collège_des_professeurs -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Collège_des_professeurs">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#composed_by"/>
+                <owl:allValuesFrom>
+                    <owl:Class>
+                        <owl:intersectionOf rdf:parseType="Collection">
+                            <rdf:Description rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Professeur_assistant"/>
+                            <rdf:Description rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Professeur_associe"/>
+                            <rdf:Description rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Professeur_ordinaire"/>
+                            <rdf:Description rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Professeur_titulaire"/>
+                        </owl:intersectionOf>
+                    </owl:Class>
+                </owl:allValuesFrom>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Complementary_Certificate_in_Applied_Statistics_program -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Complementary_Certificate_in_Applied_Statistics_program">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Basic_Education"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Cours -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Cours">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#teached_at"/>
+                <owl:allValuesFrom rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Horaire"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#teached_in"/>
+                <owl:allValuesFrom rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Salle"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#DAS -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#DAS">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Executive_Education"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Decanat -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Decanat">
+        <owl:disjointUnionOf rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Doyen"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Vice-doyen"/>
+        </owl:disjointUnionOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Diplome -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Diplome">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#issued_for"/>
+                <owl:allValuesFrom rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Study_Programs"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Doctoral_Programs -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Doctoral_Programs">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Basic_Education"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#supervised_by"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Faculties"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#achieves_a"/>
+                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
+                <owl:onClass rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Sujet_thése"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Document -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Document"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Domaine_de_recherche -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Domaine_de_recherche"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Domaine_de_responsabilité -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Domaine_de_responsabilité"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Doyen -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Doyen">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#is_a"/>
+                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
+                <owl:onClass rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Professeur_ordinaire"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Développment -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Développment">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Domaine_de_responsabilité"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Enseignement -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Enseignement">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Domaine_de_responsabilité"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Examen -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Examen"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Executive_Education -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Executive_Education">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Domaine_de_responsabilité"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Faculties -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Faculties">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#teaches"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Cours"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <owl:disjointUnionOf rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Professeur_assistant"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Professeur_associe"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Professeur_honoraire"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Professeur_ordinaire"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Professeur_titulaire"/>
+        </owl:disjointUnionOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Horaire -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Horaire">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#managed_by"/>
+                <owl:allValuesFrom rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Service_aide_aux_étudiants"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Institute_of_Economics_and_Econometrics -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Institute_of_Economics_and_Econometrics">
+        <rdfs:label xml:lang="fr">Institute of Economics and Econometrics</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#MAS -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#MAS">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Executive_Education"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#MBA -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#MBA">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Executive_Education"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Master_Programs -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Master_Programs">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Basic_Education"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Outils -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Outils"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Personnel_administratif_et_technique -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Personnel_administratif_et_technique">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#managed_by"/>
+                <owl:allValuesFrom rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Service_RH_et_logistique"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Professeur_assistant -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Professeur_assistant"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Professeur_associe -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Professeur_associe"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Professeur_honoraire -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Professeur_honoraire"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Professeur_ordinaire -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Professeur_ordinaire"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Professeur_titulaire -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Professeur_titulaire"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Research_institutes -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Research_institutes"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Salle -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Salle">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#managed_by"/>
+                <owl:allValuesFrom rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Service_aide_aux_étudiants"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Scientific_Committee -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Scientific_Committee"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Semestre -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Semestre">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#composed_by"/>
+                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
+                <owl:onClass>
+                    <owl:Class>
+                        <owl:intersectionOf rdf:parseType="Collection">
+                            <rdf:Description rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Session_des_cours"/>
+                            <rdf:Description rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Session_des_examens"/>
+                        </owl:intersectionOf>
+                    </owl:Class>
+                </owl:onClass>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Semestre_automne -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Semestre_automne">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Semestre"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Semestre_printemps -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Semestre_printemps">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Semestre"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Service_RH_et_logistique -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Service_RH_et_logistique">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Service_opérationnel"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Service_aide_aux_étudiants -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Service_aide_aux_étudiants">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Service_opérationnel"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Service_informatique -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Service_informatique">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Service_opérationnel"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Service_opérationnel -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Service_opérationnel">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#produced"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Document"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#uses"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Outils"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#managed_by"/>
+                <owl:allValuesFrom rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Personnel_administratif_et_technique"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Session -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Session"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Session_des_cours -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Session_des_cours">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Session"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Session_des_examens -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Session_des_examens">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Session"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Student -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Student">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#registered_in"/>
+                <owl:minQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:minQualifiedCardinality>
+                <owl:onClass rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Study_Programs"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Study_Programs -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Study_Programs">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#composed_by"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Basic_Education"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#composed_by"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Executive_Education"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#has_a"/>
+                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
+                <owl:onClass rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Study_plans"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#has_a"/>
+                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
+                <owl:onClass rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Reglement_d&apos;études"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Study_plans -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Study_plans">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Approved_by"/>
+                <owl:allValuesFrom>
+                    <owl:Class>
+                        <owl:unionOf rdf:parseType="Collection">
+                            <rdf:Description rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#COMENS"/>
+                            <rdf:Description rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Collège_des_professeurs"/>
+                        </owl:unionOf>
+                    </owl:Class>
+                </owl:allValuesFrom>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#contains"/>
+                <owl:minQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:minQualifiedCardinality>
+                <owl:onClass rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Cours"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Sujet_thése -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Sujet_thése"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Vice-doyen -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Vice-doyen">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#is_a"/>
+                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">3</owl:qualifiedCardinality>
+                <owl:onClass rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Professeur_ordinaire"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#is_in_charge_of"/>
+                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
+                <owl:onClass rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Domaine_de_responsabilité"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Personnel_d&apos;enseignement -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Personnel_d&apos;enseignement">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#managed_by"/>
+                <owl:allValuesFrom rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Service_RH_et_logistique"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#belongs_to"/>
+                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
+                <owl:onClass rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Research_institutes"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#has_reaserch_domain"/>
+                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
+                <owl:onClass rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Domaine_de_recherche"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <owl:disjointUnionOf rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Assistant"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Faculties"/>
+        </owl:disjointUnionOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Reglement_d&apos;études -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Reglement_d&apos;études">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Approved_by"/>
+                <owl:allValuesFrom rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Collège_des_professeurs"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.2.8.20170104-2310) https://github.com/owlcs/owlapi -->
+

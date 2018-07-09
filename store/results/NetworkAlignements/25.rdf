@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rdf:RDF xmlns='http://knowledgeweb.semanticweb.org/heterogeneity/alignment'
+	 xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' 
+	 xmlns:xsd='http://www.w3.org/2001/XMLSchema#' 
+	 alignmentSource='AgreementMakerLight'>
+
+<Alignment>
+	<xml>yes</xml>
+	<level>0</level>
+	<type>11</type>
+	<onto1>Ressources\Reseau\Profs.owl</onto1>
+	<onto2>Ressources\Reseau\Faculties.owl</onto2>
+	<uri1>http://www.ontologie.fr/prof#</uri1>
+	<uri2>http://www.ontologie.fr/monxmlfaculties#</uri2>
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/prof#Professeurs___recherche"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monxmlfaculties#professor"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7077</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/prof#Instagram"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monxmlfaculties#firstname"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6306</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/prof#Emploi"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monxmlfaculties#email"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6203</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/prof#Universit_"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monxmlfaculties#unit"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6164</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/prof#Coursera"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monxmlfaculties#code"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6011</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+</Alignment>
+</rdf:RDF>

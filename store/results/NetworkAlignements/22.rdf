@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rdf:RDF xmlns='http://knowledgeweb.semanticweb.org/heterogeneity/alignment'
+	 xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' 
+	 xmlns:xsd='http://www.w3.org/2001/XMLSchema#' 
+	 alignmentSource='AgreementMakerLight'>
+
+<Alignment>
+	<xml>yes</xml>
+	<level>0</level>
+	<type>11</type>
+	<onto1>Ressources\Reseau\Profs.owl</onto1>
+	<onto2>Ressources\Reseau\CATALOG.owl</onto2>
+	<uri1>http://www.ontologie.fr/prof#</uri1>
+	<uri2>http://www.ontologie.fr/monexcel#</uri2>
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/prof#Document"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monexcel#Document"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.99</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/prof#International"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monexcel#International_Management"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7362</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/prof#Statistiques"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monexcel#Statistics_I"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7318</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/prof#Formation_continue"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monexcel#formations"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7214</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/prof#Master"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monexcel#Master_thesis_in_statistics"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7028</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/prof#Strat_gie"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monexcel#STAT"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6679</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/prof#_gsem_fr_recherche_fonds_"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monexcel#GSEM"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6545</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/prof#STRAUB_Thomas"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monexcel#STR"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6433</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/prof#Programmes_en_finance___comptabilit_"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monexcel#Production_Management_and_Logistics"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6279</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/prof#Ressources_humaines"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monexcel#Research_Seminar_in_statistics"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6175</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/prof#Corps_professoral_de_la_GSEM"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monexcel#Corporate_Governance__amp__Strategic_Leadership"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.609</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/prof#International_Organizations_MBA"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monexcel#Introduction_to_Microeconomics"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6077</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+</Alignment>
+</rdf:RDF>

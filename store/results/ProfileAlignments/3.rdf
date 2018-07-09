@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rdf:RDF xmlns='http://knowledgeweb.semanticweb.org/heterogeneity/alignment'
+	 xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' 
+	 xmlns:xsd='http://www.w3.org/2001/XMLSchema#' 
+	 alignmentSource='AgreementMakerLight'>
+
+<Alignment>
+	<xml>yes</xml>
+	<level>0</level>
+	<type>11</type>
+	<onto1>Ressources\Reseau\DB.owl</onto1>
+	<onto2>Ressources/Profile/GSEMOnto.owl</onto2>
+	<uri1>http://www.ontologie.fr/mydatabase#</uri1>
+	<uri2>http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology</uri2>
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/mydatabase#personne"/>
+			<entity2 rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7579</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/mydatabase#personne_adresse"/>
+			<entity2 rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Personnel_d_enseignement"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7166</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/mydatabase#personne_email"/>
+			<entity2 rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Personnel_administratif_et_technique"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6937</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/mydatabase#suj_th_resume"/>
+			<entity2 rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Sujet_these"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6886</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/mydatabase#membre_com_sci"/>
+			<entity2 rdf:resource="http://www.w3.org/ns/org#Membership"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6659</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/mydatabase#com_sci"/>
+			<entity2 rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#COMENS"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6447</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+</Alignment>
+</rdf:RDF>

@@ -1,0 +1,528 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Schlegelmilch">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Cesinger">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#CTR_extra1">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Inventory control of an item with a probabilistic replenishment lead time and a known supplier shutdown period">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Variable neighborhood search / Graph coloring / ">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#201703014">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Verma">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Prior investigations treated subsidiary autonomy more or less as a static concept, but the headquarters-subsidiary relationship is likely to evolve and result in changing power positions over time. This article examines the static and dynamic impacts of external/internal embeddedness on the autonomy of overseas R&amp;amp;D subsidiaries. Based on data from 73 overseas R&amp;amp;D subsidiaries of German firms, we show that a dynamic perspective indeed produces counterintuitive results, namely that high internal embeddedness in the past may help laboratories gain higher levels of autonomy in the future, whereas high external embeddedness may lead to lower levels of autonomy in the future. Our results indicate that building trust and linking up with headquarters are important strategies for subsidiaries wishing to be granted autonomy in the future.">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Unravelling the Subsidiary Initiative Process: A Multilevel Approach">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#http://link.springer.com/chapter/10.1007%2F978-3-319-17509-6_1">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Björn">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#In dieser Publikation diskutieren Wissenschaftler(innen) sowie Praxis-Vertreter(innen) Trends und aktuelle Herausforderungen der Strategischen Unternehmensführung. Dabei wird aus unterschiedlichen Perspektiven untersucht, wie sich die veränderten Rahmenbedingungen auf die Unternehmensführung auswirken und wie ihnen begegnet werden sollte. Die Publikation umfasst jeweils mehrere Beiträge in den drei Bereichen «Strategic Innovation und Nachhaltigkeit», «Strategic Leadership» und «Strategic Finance und Governance». Dies ist die zweite Publikation der Publikationsreihe des Profilbereichs «Responsible Corporate Competitiveness» (RoCC) der Universität St.Gallen. Die erste Publikation ist 2009 mit dem Titel «Konsequenzen aus der Finanzmarktkrise – Perspektiven der HSG» erschienen und unter www.rocc.unisg.ch erhältlich.">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#http://linkinghub.elsevier.com/retrieve/pii/S0148296315005056">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Widmer">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Corporate R&amp;amp;D, one of the most shielded and centralised activities in the value chain, has recently experienced rapid internationalisation. However, academic writing has primarily concentrated on investments within ‘core&apos;, i.e. triad, countries. The question to what extent firms invest in R&amp;amp;D in non-triad economies remains fairly uncharted territory. This paper provides insights regarding the type as well as the management of non-triad R&amp;amp;D laboratories by building on survey data from 49 leading German MNCs. We shed light on the motivations and pace of R&amp;amp;D investments and reveal that the mechanisms used in ‘peripheral&apos; countries considerably differ from ‘core&apos; country laboratories.">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#vie">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Thorsten">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Supply chain / Transport / Energy / Optimization / Simulation / ">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Economie-politique / Infrastructure / Eau / Gouvernance / Institution / ">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#10.1007/s10732-016-9321-x">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Niesseron">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#10.1002/gsj.25">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Changes at Corporate Headquarters : Review, Integration and Future Research">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#During the past five decades, scholars have studied the corporate headquarters (CHQ) – the multidivisional firm&apos;s central organizational unit. The purpose of this article is to review the diverse and fragmented literature on the CHQ and to identify the variables of interest, the dominant relationships, and the contributions. We integrate, for the first time, the existing knowledge of the CHQ into an organizing framework. Based on a synthesis of the literature, we identify major shortcomings and gaps, and present an agenda for future research that contributes to our understanding of the CHQ and the multidivisional firm.">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Daniel Antonio">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#2009">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#989-1007">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Gemeinsam stärker">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#CTR_isinvitee">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Daniel">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#10.1016/j.jbusres.2015.10.082">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Journal of International Management">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#CTR_support">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Plumettaz">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#http://www.fptt-pftt.gc.ca/eng/news/2009/docs/jun_jul_univ_research.pdf">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#A Generalized Consistent Neighborhood Search for Satellite Range Scheduling Problems">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#198-213">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#10.3138/infor.51.1.23">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Longitudinal variable selection by cross-validation in the case of many covariates">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#http://www.ifb-management-seminare.ch/img/pdf/senior/150928 FAZ Mythos Konzernzentrale.pdf">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Journal of Management">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Amaldi">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Charlène">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Jafari">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#CTR_doi">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#963-973">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#2008">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#This paper proposes an agent-based metaheuristic to solve large-scale multi-period supply chain network design problems. The generic design model formulated covers the entire supply chain, from vendor selection, to production–distribution sites configuration, transportation options and marketing policy choices. The model is based on the mapping of a conceptual supply chain activity graph on potential network locations. To solve this complex design problem, we propose Collaborative Agent Team (CAT), an efficient hybrid metaheuristic based on the concept of asynchronous agent teams (A-Teams). Computational results are presented and discussed for large-scale supply chain networks, and the results obtained with CAT are compared to those obtained with the latest version of CPLEX.">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#http://onlinelibrary.wiley.com/doi/10.1002/smj.2104/pdf">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#10.1002/sim.2572">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#A metaheuristic is a refined solution method able to find a satisfying solution to a difficult problem in a reasonable amount of time. A local search metaheuristic works on a single solution and tries to improve it iteratively. Tabu search is one of the most famous local search, where at each iteration, a neighbor solution is generated from the current solution by performing a specific modification (called a move) on the latter. The goal of this chapter is to present tabu search approaches with enhanced exploration and exploitationmechanisms. For this purpose, the following ingredients are discussed: different neighborhood structures (i.e., different types of moves), guided restarts based on a distance function, and deconstruction/reconstruction techniques. The resulting all-terrain tabu search approaches are illustrated for various production problems: car sequencing, job scheduling, resource allocation, and inventory management.">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#91-108">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Corporate headquarters / Corporate strategy / Corporate office / Head office / Headquarters / Corporate headquarters change / Strategic change / Organizational-design change / Relocation / Relocations / Multibusiness firm / Multinational firm / Multibusiness company / Multinational company / Multibusiness corporation / Multinational corporation / ">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#CTR_cseas">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Journal of Heuristics">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#In this paper we introduce and develop robust versions of quasi-likelihood functions for model selection via an analysis-of-deviance type of procedure in generalized linear models and longitudinal data analysis. These robust functions are built upon natural classes of robust estimators and can be seen as weighted versions of their classical counterparts. The asymptotic theory of these test statistics is stuided and their robustness properties are assessed for both generalized linear models and longitudinal data analysis. The proposed class of test statitstics yields reliable inference even under model contamination. The analysis of a real data set completes the article.">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#IEE">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Let G=(V,E) be a graph with vertex set V and edge set E. The graph coloring problem consists in assigning an integer (called color) to each vertex so that adjacent vertices get different colors, and the total number of different colors is minimized. The adaptive memory algorithm is an hybrid evolutionary heuristic based on a central memory. At each generation, the idea is to use the information of a central memory for producing an offspring which is then improved by using a local search algorithm. The so obtained solution is finally used to update the information contained in the memory. In this paper, we propose an adaptive memory algorithm to the graph coloring problem. The results obtained so far give evidence that our method is competitive with the best known coloring algorithms.">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Knowledge flows / Multinational corporation / Complementarity / Value chain / ">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#10.1111/j.2042-5805.2013.01063.x">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#2007">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#International Journal of Technology Management">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Trevor">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Kreutzer">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#2551-2560">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Truck allocation problem / Metaheuristics / Tabu search / ">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Knowledge transfer / Multinational corporation / Geographic distance / Cultural distance / Linguistic distance / ">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#CTR_extra5">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#CTR_cniv">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Metaheuristics / Supply chain / Optimization / Decision analysis / ">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Chief strategy officers : contingency analysis of their presence in top management teams">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Flemming">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Ant Decision Systems for Combinatorial Optimization with Binary Constraints">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#floresag">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Jacot">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#10.1080/10485250600720779">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#CTR_extra4">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Robust Inference Based on Quasi-Likelihoods for Generalized Linear Models and Longitudinal Data">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Thémans">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Glover">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#978-3-319-06943-2">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Sie werden als Zeichen von Leistung und Erfolg bewundert, aber auch als Ort der Machtkämpfe und Bürokratie misstrauisch beäugt. Haben Konzernzentralen in Zeiten der digitalen Vernetzung und der Globalisierung noch einen Sinn?">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Online vehicle routing and scheduling with dynamic travel times">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#This paper addresses a single machine scheduling problem with release dates, deadlines, setup costs and times, and the possibility to reject some jobs while encountering an abandon cost. The objective function to minimize is a sum of regular functions depending on the completion time of the jobs. The problem is inspired by a manufacturing scheduling problem. We design a greedy algorithm and a tabu search approach for the problem. We studied several restriction procedures. Realistic instances with up to 500 jobs are tackled.">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#http://link.springer.com/chapter/10.1007%2F978-3-319-06944-9_16">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Gentle">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Mueller-Stewens">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Consistent Neighborhood Search for Constrained Assignment Problems">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Schweiz / Corporate Strategy / Trends / ">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#CTR_extra3">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#80">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Johanna Mills">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#139-161">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#When does university research get commercialized? Institutional and individual level predictors of commercial outputs from research-council funded projects">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Graph coloring / Local search / Variable space search / ">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#10.1016/j.tre.2011.06.001">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#http://onlinelibrary.wiley.com/doi/10.1111/ijmr.12044/pdf">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Journal of Electrical and Computer Engineering">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Variable space search for graph coloring">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#CTR_isbn">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Martel">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Nip1">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Pablo">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#http://www.sciencedirect.com/science/article/pii/S0148296315000557">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Olivier">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#A set-partitioning problem for car wirings is addressed, in order to minimize the production costs. An approach to divide the problem in smaller sub-problems is presented, and three different constructive methods are proposed and compared according to quality, computing time, and robustness.">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Nicolas">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Metaheuristics for constrained production scheduling problems">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Vedat">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#CTR_extra2">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Car fleet management / Graph optimization / Integer linear programming / Tabu search / ">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Graph coloring models and metaheuristics for packing applications">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#314-339">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#In the first chapter, the problem of Bootstrap inference for the parameters of a GLMM is addressed. We formulate a bootstrapping strategy consisting on the random weighting of the contributions to the Joint Likelihood of Outcomes and Random Effects. Using the Laplace Approximation method for integrals on this function, yields a Random Weighted Log-Likelihood that produces the desired bootstrap replicates after optimization. In order to assess the properties of this procedure, that we name Random Weighted Likelihood Bootstrap (RWLB), we compare analytically their resulting EE to those of the Generalized Cluster Bootstrap for Gaussian LMM and conduct simulation studies both in a LMM and Mixed Logit regression contexts. The second chapter explores adaptations of the RWLB to the estimation of the uncertainty in prediction of random effects in a GLMM, as measured by the Mean Squared Error for the Predictors (MSEP).">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#http://link.springer.com/10.1007/s11575-010-0041-4">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#10.1007/s10479-013-1397-1">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Nip2">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#CTR_acceptance">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#10.1016/j.jhealeco.2005.04.010">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#10.1051/ro/2017030">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Heuristics for a project management problem with incompatibility and assignment costs">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Given a fleet of identical vehicles and a set of n clients to be served from a single depot, the well-known vehicle routing problem (VRP) consists in serving each client (with a deterministic demand) once with a unique vehicle, with the aim of minimizing the total traveled distance. In this work, the basic VRP is extended within a medical environment, leading to MVRP (for medical VRP). Indeed, the depot is typically a laboratory for blood analysis, and a client is assumed to be a medical location at which blood samples should be picked up by a vehicle. In order to have efficient tests at the laboratory, at most 90 minutes should elapse between the release time of the blood sample and the delivery time at the laboratory. In addition, only a proportion of the demand is known in advance and the travel times depend on the traffic conditions. A fleet of non-identical vehicle is considered (with different speeds and capacities), and each location has to be visited anytime a blood sample is available. Finally, medical items should be daily delivered from the laboratory to some medical locations. A transportation cost function with three components has to be minimized. Solution methods are proposed, which are able to account for all the specific features of the problem. The experiments highlight the benefit of considering diversion opportunities (which consists in diverting a vehicle away from its planned destinations).">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Lattwein">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#mmenz">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#The Annals of Applied Statistics">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#CTR_crec">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Jani">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#http://www.tandfonline.com/doi/pdf/10.1080/19416520.2015.1027050">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#CTR_discipline1">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Model and metaheuristics for a scheduling problem integrating procurement, sale and distribution decisions">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#De Luna">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Tabu search / Single machine scheduling / ">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#http://doi.wiley.com/10.1111/ijmr.12022">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Marie-Sklaerder">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#We adapt Breiman&apos;s non-negative garrote method to perform variable selection in non-parametric additive models. The technique avoids methods of testing for which no general reliable distributional theory is available. In addition, it removes the need for a full search of all possible models, something which is computationally intensive, especially when the number of variables is moderate to high. The method has the advantages of being conceptually simple and computationally fast. It provides accurate predictions and is effective at identifying the variables generating the model. To illustrate our procedure, we analyse logbook data on blue sharks (Prionace glauca) from the US pelagic longline fishery. In addition, we compare our proposal to a series of available alternatives by simulation. The results show that in all cases our methods perform better or as well as these alternatives.">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Respen">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Three-level inventory deployment for a luxury watch company facing various perturbations">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#2002">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#1099-1118">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Efficient scheduling policies for dynamic data flow programs executed on multi-core">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#15">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Pflieger">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Distance and perceptions of risk in internationalization decisions">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Optimization / Metaheuristic / Ant Algorithm, Evolutionary Procedure / Population-Based Method / ">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#WLAN / Channel assignment / Coloring / Tabu search / ">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Using a detailed energy consumption infrastructure, this work develops a model to address sustainability in supply chain networks in comparing environmental impact to cost optimization. It takes into account the effect of inventory management policies on energy consumption in transportation and storage. The considered inventory management policy is the replenishment method. A basic supply chain segment is studied in the most general fashion so that the analysis could be applied to any transportation link and storage node of a supply chain. Real data are used, obtained from an Indonesian food factory belonging to a well-known international company. Using a simulation-optimization approach, our results show that the most energy effcient solution is not necessarily detrimental to the economic profits.">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Müller-Stewens">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#coutteni">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Contributions to overdispersed count data modeling: robustness, small samples and other extensions">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#In most ant algorithms, the role of each ant is to build a solution in a constructive way, basing each decision on the greedy force and the trails. However, different roles are possible for each individual ant, ranging from a negligible help in the decision process to a refined local search heuristic. In this paper, the importance of the role assigned to each ant is discussed. Three general ant methodologies are presented. Comparative results are analyzed for the well-known graph coloring problem.">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Bangalore ">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#The financial and economical crisis of the last three years has brought many new challenges for the Swiss economy. However, every crisis presents opportunities. A new report by Deloitte and the Institute of Management of the University of St. Gallen shows how Swiss business rate these opportunities and which actions are required by the government and companies if Switzerland wants to stay ahead in global competitiveness.">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Polina">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#The Corporate Headquarters in the Contemporary Corporation : Advancing a Multimarket Firm Perspective">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#CSO&apos;s Role in Times of Uncertainty : Report of the CSO Survey 2012">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#2001">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#10.1016/j.jbusres.2015.01.041">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Graph coloring / Tabu search / Project scheduling / Combinatorial optimization / Metaheuristics / ">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Ant algorithms are well-known metaheuristics which have been widely used since two decades. In most of the literature, an ant is a constructive heuristic able to build a solution from scratch. However, other types of ant algorithms have recently emerged: the discussion is thus not limited by the common framework of the constructive ant algorithms. Generally, at each generation of an ant algorithm, each ant builds a solution step by step by adding an element to it. Each choice is based on the greedy force (also called the visibility, the short term profit or the heuristic information) and the trail system (central memory which collects historical information of the search process). Usually, all the ants of the population have the same characteristics and behaviors. In contrast in this paper, a new type of ant metaheuristic is proposed, namely SMART (for Solution Methods with Ants Running by Types). It relies on the use of different population of ants, where each population has its own personality.">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Metaheuristics for a job scheduling problem with smoothing costs relevant for the car industry">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#16">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#A graph coloring heuristic using partial solutions and a reactive tabu scheme">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#83-101">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Combining Stocks and Flows of Knowledge: The Effects of Intra-Functional and Cross-Functional Complementarity">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#By starting from a natural class of robust estimators for generalized linear models based on the notion of quasi-likelihood, we define robust deviances that can be used for stepwise model selection as in the classical framework. We derive the asymptotic distribution of tests based on robust deviances, and we investigate the stability of their asymptotic level under contamination. The binomial and Poisson models are treated in detail. Two applications to real data and a sensitivity analysis show that the inference obtained by means of the new techniques is more reliable than that obtained by classical estimation and testing procedures.">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#4448">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Name1">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#10.1111/j.1467-9442.2011.01680.x">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Cho">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#M &amp;amp; A Review">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Tabu Search with Diversity Control and Simulation for an Inventory Management Problem : Proceedings of 5th International Conference on Metaheuristics and Nature Inspired Computing">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#Irincheeva">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#10.1023/A:1008975231866">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#455">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcel#S

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox prefHeight="546.0" prefWidth="178.0" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1" fx:controller="GUIJavaFX.SidePanelContentController">
+   <children>
+      <ImageView fitHeight="127.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@back.jpg" />
+         </image>
+      </ImageView>
+      <JFXButton fx:id="b3" buttonType="RAISED" layoutX="10.0" layoutY="197.0" onAction="#changeColor" prefHeight="110.0" prefWidth="178.0" ripplerFill="#fc0000" style="-fx-background-color: #f1f1f1;" text="Home" />
+      <JFXButton fx:id="b1" buttonType="RAISED" onAction="#changeColor" prefHeight="117.0" prefWidth="178.0" ripplerFill="#fc0000" style="-fx-background-color: #f1f1f1;" text="Add Knowledge" />
+      <JFXButton fx:id="b2" buttonType="RAISED" layoutX="10.0" layoutY="123.0" onAction="#changeColor" prefHeight="116.0" prefWidth="178.0" ripplerFill="#fc0000" style="-fx-background-color: #f1f1f1;" text="Search" />
+      <JFXButton fx:id="exit" buttonType="RAISED" layoutX="10.0" layoutY="271.0" onAction="#exit" prefHeight="110.0" prefWidth="178.0" ripplerFill="#fc0000" style="-fx-background-color: #f1f1f1;" text="EXIT" />
+   </children>
+</VBox>

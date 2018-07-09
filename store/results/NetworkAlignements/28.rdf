@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rdf:RDF xmlns='http://knowledgeweb.semanticweb.org/heterogeneity/alignment'
+	 xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' 
+	 xmlns:xsd='http://www.w3.org/2001/XMLSchema#' 
+	 alignmentSource='AgreementMakerLight'>
+
+<Alignment>
+	<xml>yes</xml>
+	<level>0</level>
+	<type>11</type>
+	<onto1>Ressources\Reseau\Profs.owl</onto1>
+	<onto2>Ressources\Reseau\PLANNING.owl</onto2>
+	<uri1>http://www.ontologie.fr/prof#</uri1>
+	<uri2>http://www.ontologie.fr/monexcelplan#</uri2>
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/prof#Document"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monexcelplan#Document"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.99</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/prof#Enseignement"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monexcelplan#Enseignement"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.989</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/prof#Programmes_d__tudes"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monexcelplan#Plan_d__tudes"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7722</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/prof#Strat_gie"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monexcelplan#Strat_gie_d_entreprise"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7209</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/prof#International"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monexcelplan#International_Management"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6536</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/prof#Droit"/>
+			<entity2 rdf:resource="http://www.ontologie.fr/monexcelplan#BA_Droit"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.6329</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+</Alignment>
+</rdf:RDF>

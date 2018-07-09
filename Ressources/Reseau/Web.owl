@@ -1,0 +1,50 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <owl:Ontology rdf:about="http://www.ontologie.fr/monhtml#"/>
+  <owl:Class rdf:about="http://www.ontologie.fr/monhtml#http:__wwwpointunigepointch_gsem_en_about_welcome_"/>
+  <owl:Class rdf:about="http://www.ontologie.fr/monhtml#Welcome_to_the_GSEM___Faculté_d&apos;économie_et_de_management___UNIGE"/>
+  <owl:Class rdf:about="http://www.ontologie.fr/monhtml#Document">
+    <rdfs:label xml:lang="en"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monhtml#Welcome_to_the_GSEM_-_Faculté_d&apos;économie_et_de_management_-_UNIGE">
+    <rdfs:label xml:lang="en"></rdfs:label>
+  </owl:Class>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monhtml#hastitle">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monhtml#Welcome_to_the_GSEM_-_Faculté_d&apos;économie_et_de_management_-_UNIGE"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monhtml#createdBy">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monhtml#Welcome_to_the_GSEM_-_Faculté_d&apos;économie_et_de_management_-_UNIGE"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monhtml#managedby">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monhtml#Welcome_to_the_GSEM_-_Faculté_d&apos;économie_et_de_management_-_UNIGE"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monhtml#haskeywords">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monhtml#Welcome_to_the_GSEM_-_Faculté_d&apos;économie_et_de_management_-_UNIGE"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monhtml#is_Title">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monhtml#Document"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monhtml#Welcome_to_the_GSEM___Faculté_d&apos;économie_et_de_management___UNIGE"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monhtml#is_a">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monhtml#Welcome_to_the_GSEM_-_Faculté_d&apos;économie_et_de_management_-_UNIGE"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monhtml#hassubject">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monhtml#Welcome_to_the_GSEM_-_Faculté_d&apos;économie_et_de_management_-_UNIGE"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monhtml#is_Path">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monhtml#Document"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monhtml#Welcome_to_the_GSEM___Faculté_d&apos;économie_et_de_management___UNIGE"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monhtml#has_category">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monhtml#Welcome_to_the_GSEM_-_Faculté_d&apos;économie_et_de_management_-_UNIGE"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monhtml#belongsto">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monhtml#Welcome_to_the_GSEM_-_Faculté_d&apos;économie_et_de_management_-_UNIGE"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monhtml#hasdescription">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monhtml#Welcome_to_the_GSEM_-_Faculté_d&apos;économie_et_de_management_-_UNIGE"/>
+  </owl:ObjectProperty>
+</rdf:RDF>

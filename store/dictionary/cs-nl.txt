@@ -1,0 +1,690 @@
+rogramovÃ½ vÃ½bor	Programma ComitÃ©
+dokument	document
+autor	de auteur van de
+administrÃ¡tor	Beheerder
+Ä�lÃ¡nek	Artikel
+rozhodnutÃ­	het besluit van de
+osoba	de persoon
+spoluautor	mede-auteur
+zamÃ­tnutÃ­	de afwijzing van
+preference	voorkeuren
+meta-recenzent	Meta-revisor
+pÅ™edmÄ›tnÃ¡ oblast	het gebied in kwestie
+Å™Ã¡dnÃ½ Ä�lÃ¡nek	een echt artikel
+pÅ™edseda programovÃ©ho vÃ½boru	de Voorzitter van het programmacomitÃ©
+recenzent	Revisor
+autor kterÃ½ nenÃ­ recenzent	de auteur is niet een revisor
+osoba s ÃºÄ�astÃ­ na konferenci	de persoon met de deelname aan de conferentie
+pÅ™edseda	de Voorzitter van de
+krÃ¡tkÃ½ Ä�lÃ¡nek	een kort artikel
+externÃ­ recenzent	externe revisor
+uÅ¾ivatel	gebruiker
+recenze	Beoordelingen
+vyjÃ¡dÅ™enÃ­ zÃ¡jmu	expressie van belang
+meta-recenze	Meta-beoordelingen
+konference	Conferentie
+pÅ™ijetÃ­	de aanneming van de
+spolupÅ™edseda	Co-voorzitter van de
+Ä�len programovÃ©ho vÃ½boru	Lid van het programmacomitÃ©
+pÅ™edseda konference	de Voorzitter van de conferentie
+Ä�len konference	Lid van de conferentie
+pÅ™idÃ¡n Ä�len programovÃ©ho vÃ½boru	toegevoegd lid van het programmacomitÃ©
+odeslÃ¡nÃ­ Ä�lÃ¡nku	Submit een artikel
+mÃ¡ vyjÃ¡dÅ™enÃ­ zÃ¡jmu	de expressie van belang
+pÅ™idÄ›len meta-recenzent recenzentovi	toegewezen aan de meta-revisor revisor
+upravit vyjÃ¡dÅ™enÃ­ zÃ¡jmu	Bewerk de expressie van belang
+Ä�lÃ¡nek napsal	Artikel geschreven door
+pÅ™idÄ›len recenzent administrÃ¡torovi	de revisor is toegewezen aan de beheerder
+nÃ¡stroj pro pÅ™Ã­dÄ›lenÃ­ pÅ™Ã­spÄ›vkÅ¯ spuÅ¡tÄ›n kÃ½m	pÅ™Ã­dÄ›lenÃ­ instrument voor bijdragen gelanceerd door
+zahÃ¡jil vyjadÅ™ovÃ¡nÃ­ zÃ¡jmu recenzentÅ¯	reacties van belangstellenden gelanceerd de revisoren
+zamÃ­tnut kÃ½m	verworpen door
+spoluautor pÅ™Ã­spÄ›vku	mede-auteur van de bijdrage van
+podrobnosti vloÅ¾eny kÃ½m	de gegevens ingevoerd door
+zadÃ¡nÃ­ kritÃ©riÃ­ recenzÃ­ kÃ½m	Voer criteria die beoordelingen
+pÅ™idÄ›leno recenzentovi	die aan een revisor zijn toegewezen
+oznaÄ�il konflikt zÃ¡jmu	genaamd het belangenconflict
+Ä�lÃ¡nek pÅ™eÄ�ten recenzentem	artikel lezen revisor
+pÅ™idÄ›len recenzent	een revisor toegewezen
+dokonÄ�it pÅ™idÄ›lenÃ­ pÅ™Ã­spÄ›vkÅ¯ konference	om te voltooien de verdeling van de bijdragen aan de conferentie
+mÃ¡ Ä�lena konference	heeft een lid van de conferentie
+vyjÃ¡dÅ™enÃ­ zÃ¡jmu upraveno	expressie van belang door
+pÅ™idÄ›lenÃ­ pÅ™Ã­spÄ›vkÅ¯ dokonÄ�eno kÃ½m	de verdeling van de bijdragen die voltooid
+mÃ¡ spoluautora	mijn mede-auteur
+Ä�lÃ¡nek pÅ™eÄ�ten meta-recenzentem	artikel gelezen meta-revisor
+mÃ¡ rozhodnutÃ­	het besluit van de
+mÃ¡ konflikt zÃ¡jmu s pÅ™Ã­spÄ›vkem	heeft een belangenconflict met de bijdrage van de
+pojednÃ¡vÃ¡ o tÃ©matu	het onderwerp bespreekt
+spustil pÅ™idÄ›lovÃ¡nÃ­ Ä�lÃ¡nkÅ¯ konference	de toewijzing van conferentie artikelen verlaagd
+napsal Ä�lÃ¡nek	schreef het artikel
+recenze napsÃ¡na kÃ½m	beoordeling geschreven door
+mÃ¡ Ä�lena programovÃ©ho vÃ½boru	is een lid van het programmacomitÃ©
+recenzuje Ä�lÃ¡nek	artikel beoordelingen
+napsal recenzi	schreef een recensie
+uzavÅ™Ã­t recenzi	tot slot de herziening
+vloÅ¾it podrobnosti konference	De details van de conferentie invoegen
+umoÅ¾nit virtuÃ¡lnÃ­ schÅ¯zku konferenci	virtuele vergaderingen conferentie inschakelen
+akceptovÃ¡ny pÅ™Ã­spÄ›vky konference pro tisk	aanvaarde bijdragen van de Conferentie om af te drukken
+Ä�lÃ¡nek mÃ¡ nÃ¡zev	het artikel heeft een naam
+mÃ¡ email	mijn e-mail
+Ä�lÃ¡nek mÃ¡ id	het artikel heeft een id
+Ä�te Ä�lÃ¡nek	Lees het artikel
+pÅ™ijato kÃ½m	Wie heeft ontvangen
+pÅ™idÄ›lenÃ­ Ä�lenÅ¯ programovÃ©ho vÃ½boru administrÃ¡torem	de toewijzing van leden van het directiecomitÃ© door de beheerder
+zamÃ­tnul Ä�lÃ¡nek	geweigerde artikel
+virtuÃ¡lnÃ­ schÅ¯zka konference umoÅ¾nÄ›na kÃ½m	virtuele vergadering conferentie mogelijk gemaakt door
+vloÅ¾it kritÃ©ria recenze	Invoegen van een herziening van de criteria
+vyjadÅ™enÃ­ zÃ¡jmu spuÅ¡tÄ›no kÃ½m	vyjadÅ™enÃ­ belang veroorzaakt door
+pÅ™idÄ›len externÃ­ recenzent	toegewezen aan een externe revisor
+broÅ¾ury vytiÅ¡tÄ›ny kÃ½m	brochures gedrukt door
+tisk broÅ¾ur konference	boekje afdrukken conferenties
+pÅ™ijal Ä�lÃ¡nek	aanvaarde artikel
+pÅ™idat Ä�lena programovÃ©ho vÃ½boru	een lid van het ComitÃ© programma toevoegen
+nastavil maximÃ¡lnÃ­ poÄ�et recenzÃ­	instellen van het maximum aantal beoordelingen
+logo konference mÃ¡ url	het logo van de conferentie heeft een url
+konference mÃ¡ recenzÃ­ na Ä�lÃ¡nek	de conferentie heeft beoordelingen op artikel
+mÃ¡ jmÃ©no	mijn naam
+datum konference	de datum van de conferentie
+webovÃ¡ strÃ¡nka konference mÃ¡ url	de conferentie heeft de url van een webpagina
+dokument konference	het document van de conferentie
+pozdnÄ› pÅ™ihlÃ¡Å¡enÃ½ zÃ¡jemce o konferenci	laat in de leiding over de conferentie
+zvanÃ¡ pÅ™ednÃ¡Å¡ka	uitgenodigde Hoorcollege
+organizaÄ�nÃ­ vÃ½bor	Organisatie-comitÃ©
+Ä�len vÃ½boru	Lid van de Commissie
+pÅ™ijatÃ½ pÅ™Ã­spÄ›vek	ontvangen per post
+konferenÄ�nÃ­ pÅ™Ã­spÄ›vek	Conferentie-bijdrage
+konferenÄ�nÃ­ oznÃ¡menÃ­	Conferentie aankondiging
+rozÅ¡Ã­Å™enÃ½ abstrakt	uitgebreide abstract
+registrovanÃ½ zÃ¡jemce o konferenci	geregistreerde kandidaten over de conferentie
+prezentace	presentatie
+pÅ™ihlÃ¡Å¡enÃ½ zÃ¡jemce o konferenci	vastgelegd in de leiding over de conferentie
+zamÃ­tnutÃ½ pÅ™Ã­spÄ›vek	een geweigerde post
+ÃºÄ�astnÃ­k konference	deelnemer van de conferentie
+sbornÃ­k konference	werkzaamheden van de conferentie
+pasivnÃ­ ÃºÄ�astnÃ­k konference	passieve deelnemer van de conferentie
+poslanÃ½ pÅ™Ã­spÄ›vek	verzonden via de post
+hlavnÃ­ autor pÅ™Ã­spÄ›vku	de belangrijkste auteur van de bijdrage
+abstrakt	Abstract
+sekce konference	sectie conferentie
+kamera-ready verze pÅ™Ã­spÄ›vku	drukklaar versie van de bijdrage
+vydavatel	Uitgever
+tutoriÃ¡l	zelfstudie
+Å™Ã¡dnÃ½ pÅ™Ã­spÄ›vek	een goede post
+odbornost experta	de expertise van de expert
+Å™Ã­dÃ­cÃ­ vÃ½bor	het ComitÃ© van beheer
+Ä�asnÄ› pÅ™ihlÃ¡Å¡enÃ½ zÃ¡jemce o konferenci	vroeg in de leiding over de conferentie
+poster	poster
+organizace	Organisatie
+Å™Ã¡dnÃ½ autor pÅ™Ã­spÄ›vku	juiste Auteur bijdrage
+informace pro ÃºÄ�astnÃ­ky	informatie voor deelnemers
+konferenÄ�nÃ­ poplatky	Conferentie vergoedingen
+recenzovanÃ½ pÅ™Ã­spÄ›vek	peer post
+vÃ½zva k ÃºÄ�asti na konferenci	oproep voor deelname aan de conferentie
+organizÃ¡tor	de organisator van de
+vÃ½bor	het ComitÃ© van de
+dÅ¯leÅ¾itÃ© termÃ­ny	belangrijke datums
+preference experta	expert voorkeuren
+workshop	Workshop
+tÃ©ma	thema
+konferenÄ�nÃ­ akce	Conferentie actie
+vÃ½zva na psanÃ­ Ä�lÃ¡nku	oproep tot het schrijven van het artikel
+zÃ¡jemce o konferenci	Wie geÃ¯nteresseerd is in de conferentie
+psanÃ½ pÅ™Ã­spÄ›vek	geschreven bericht
+aktivnÃ­ ÃºÄ�astnÃ­k konference	een actieve deelnemer van de conferentie
+webovÃ© strÃ¡nky konference	website van de conferentie
+pÅ™ispÄ›vatel konference	Conferentie Inzender
+pÅ™edseda workshopu	de Voorzitter van de workshop
+zvanÃ½ pÅ™ednÃ¡Å¡ejÃ­cÃ­	genaamd de docent
+mÃ¡ tutoriÃ¡l	mijn tutorial
+bÃ½t programovÃ½m vÃ½borem konference	worden de programmering van het ComitÃ© van de conferentie
+pozvat spolurecenzenta	uitnodigen spolurecenzenta
+mÃ¡ workshop	mijn atelier
+bÃ½t pÅ™edsedou workshopu Ä�eho	de Voorzitter van de workshop, wat
+poslÃ¡no kam	waar Gepost
+mÃ¡ Ä�lena	is een lid van de
+mÃ¡ recenznÃ­ posudek	Mijn beoordeling getuigenis
+dÅ¯leÅ¾itÃ½ den konference	een belangrijke dag van de conferentie
+prezentoval	presenteerde de
+bÃ½t organizaÄ�nÃ­m vÃ½borem konference	het organisatiecomitÃ© van de conferentie worden
+konference mÃ¡ Å™Ã­dicÃ­ vÃ½bor	Conferentie Steering Committee
+bÃ½t vÃ½borem konference	worden Conferentiecommissie
+bÃ½t Å™Ã­dicÃ­m vÃ½borem konference	worden conferentie Steering Committee
+mÃ¡ pÅ™edsedu workshopu	de Voorzitter van de workshop
+tÃ©matem nebo odeslanÃ½m pÅ™Ã­spÄ›vkem je	het thema van de bijdrage wordt verzonden of
+pÅ™ispÄ›l konferenci	bijgedragen aan de conferentie
+konference mÃ¡ vÃ½bor	de Conferentiecommissie heeft
+bÃ½t pÅ™edsedou vÃ½boru	de Voorzitter van de Commissie worden
+mÃ¡ tÃ©ma workshopu	het thema van de workshop
+recenzuje pÅ™Ã­spÄ›vek	Beoordelingen post
+tÃ©ma sekce konference	het thema van de conferentie-sectie
+Ä�Ã¡stÃ­ konference	onderdeel van de conferentie
+mÃ¡ Ä�Ã¡st	mijn deel van de
+mÃ¡ abstrakt	Het heeft een abstract
+preference nebo odbornost recenzenta	voorkeur of expertise van de revisor
+tÃ©ma svÃ¡zanÃ© s preferovanÃ½m tÃ©matem	thema gebonden aan het gewenste thema
+bÃ½t Ä�lenem vÃ½boru	een lid van de Commissie worden
+konference mÃ¡ programovÃ½ vÃ½bor	Conferentie programma ComitÃ©
+publikuje	publiceert de
+mÃ¡ sekci	heeft een sectie
+mÃ¡ pÅ™Ã­spÄ›vek	mijn post
+byl pÅ™iÅ™azen zÃ¡jem recenzenta	Hij werd toegewezen aan van de revisor belang
+preference Ä�i odbornost koho	voorkeur of expertise die
+mÃ¡ dÅ¯leÅ¾itÃ½ den	heeft een belangrijke dag
+prezentovÃ¡no kÃ½m	gepresenteerd door
+mÃ¡ odeslanÃ½ pÅ™Ã­spÄ›vek	heeft een bijdrage te leveren
+mÃ¡  recenzi	Mijn review
+mÃ¡ spolupÅ™edsedu vÃ½boru	de Commissie heeft
+prvnÃ­ Ä�Ã¡stÃ­ dokumentu	het eerste deel van het document
+bÃ½t spolupÅ™edsedou vÃ½boru	Als een co-voorzitter van de Commissie
+konference mÃ¡ organizaÄ�nÃ­ vÃ½bor	de conferentie Organiserend ComitÃ© heeft
+Ä�Ã­slo svazku sbornÃ­ku	het volumenummer van congresverslagen
+mÃ¡ nÃ¡zev	heeft een naam
+pÅ™Ã­jmenÃ­	achternaam
+pohlavÃ­	geslacht
+mÃ¡ autora	de auteur heeft
+pozvÃ¡n recenzentem	uitgenodigde revisor
+vydavatelem sbornÃ­ku je	de uitgever van de procedure is
+mÃ¡ pÅ™edsedu vÃ½boru	de Voorzitter van de Commissie
+stupeÅˆ preference recenze	de mate van voorkeur beoordelingen
+url webovÃ½ch strÃ¡nek konference	URL van de website van de conferentie
+publikovÃ¡no dne	Gepost op
+den odeslÃ¡nÃ­ Å™Ã¡dnÃ©ho pÅ™Ã­spÄ›vku	datum van verzending van de goede bijdrage
+kÅ™estnÃ­ jmÃ©no	voornaam
+mÃ­sto konÃ¡nÃ­ konference	de locatie van de conferentie
+poÄ�Ã¡teÄ�nÃ­ den	Start van de dag
+finÃ¡lnÃ­ den	de laatste dag
+stupeÅˆ odbornosti recenzenta	de graad van professionalisme van de revisor
+den odeslÃ¡nÃ­ abstraktu	datum van verzending van de abstract
+isbn sbornÃ­ku	ISBN anthology
+den oznÃ¡menÃ­ pÅ™ijetÃ­ pÅ™Ã­spÄ›vku	datum van kennisgeving van de aanneming van de bijdrage
+e-mail	E-mail
+den odeslÃ¡nÃ­ kamera-ready verze pÅ™Ã­spÄ›vku	datum van verzending van de drukklaar versie van de bijdrage
+aktivita poslÃ¡nÃ­ kamera-ready verze	de activiteit van de missie van de drukklaar versie
+aktivita recenzovÃ¡nÃ­	activiteit beoordeling
+raut	raut
+osoba s podÃ­lem na konferenci	een persoon met een aandeel van de conferentie
+spoleÄ�enskÃ¡ udÃ¡lost	sociaal evenement
+udÃ¡lost	gebeurtenis
+banket	Feestzaal
+vÃ½let	reis
+pracovnÃ­ aktivita	werkterrein
+administrativnÃ­ aktivita	administratieve activiteit
+Å™editel programovÃ©ho vÃ½boru	de directeur van het programmacomitÃ©
+pÅ™Ã­spÄ›vek	Verzenden
+asistent	Assistent
+aktivita zaslÃ¡nÃ­ pÅ™Ã­spÄ›vku	activiteit boekt
+student	student
+aktivita recenzovÃ¡nÃ­ vÃ½sledkÅ¯	Bekijk de resultaten van de activiteit
+firma	bedrijf
+mÄ›sto	Stad
+dobrovolnÃ­k	vrijwilligers
+aktivita registrace ÃºÄ�astnÃ­kÅ¯	activiteit registratie van deelnemers
+vÄ›deckÃ½ pracovnÃ­k	wetenschappelijke werknemer
+Å™Ã¡dnÃ½ ÃºÄ�astnÃ­k konference	regelmatige deelnemer van de conferentie
+ÃºÄ�astnÃ­k	deelnemer
+stÃ¡t	Staat
+univerzita	Universiteit
+studentskÃ½ ÃºÄ�astnÃ­k konference	student deelnemer van de conferentie
+nÃ¡sleduje	gevolgd door de
+studuje na univerzitÄ›	studie aan de Universiteit
+sÃ­dlÃ­ v zemi	gelegen op het platteland
+recenzuje	Beoordelingen
+bÃ½t expertem na tÃ©ma	een expert op het onderwerp van
+tÃ½kÃ¡ se	betrekking heeft op de
+zamÄ›stnÃ¡n	in dienst
+sÃ­dlÃ­ ve mÄ›stÄ›	gelegen in de stad
+byl napsÃ¡n autorem	Het werd geschreven door de auteur
+napsal pÅ™Ã­spÄ›vek	schreef een post
+souvisejÃ­cÃ­ administrativnÃ­ aktivita	Verwante administratieve activiteit
+probÃ­hÃ¡ paralelnÄ› s	plaatsvindt in parallel met de
+udÃ¡lost mÃ¡ umÃ­stÄ›nÃ­	het evenement heeft de locatie
+sÃ­dlÃ­ v ulici	gelegen in de straat
+obsahuje abstrakt	bevat abstract
+mÃ¡ domovskou strÃ¡nku	mijn home page
+mÃ¡ zdanÄ›nÃ­	de belasting op
+nastavenÃ­ maximÃ¡lnÃ­ho poÄ�tu udÃ¡lostÃ­	instellen van het maximum aantal gebeurtenissen
+udÃ¡lost konÄ�Ã­ v den	het evenement eindigt op de dag
+mÃ¡ struÄ�nÃ½ nÃ¡zev	heeft een korte naam
+klÃ­Ä�ovÃ¡ slova pÅ™Ã­spÄ›vku jsou	sleutelwoorden zijn
+nÃ¡zev pÅ™Ã­spÄ›vku	de naam van de post
+smÄ›rovacÃ­ Ä�Ã­slo	bewerkingsplannummer
+ÃºvodnÃ­ den udÃ¡losti	openingsdag van het evenement
+mÃ¡ kontaktnÃ­ adresu	mijn contactadres
+ÃºÄ�astnÃ­k konference mÃ¡ vÄ�asnou registraci	deelnemer aan de conferentie vroege registratie
+kÅ™estnÃ­ jmÃ©no osoby je	de voornaam van de persoon is
+pÅ™Ã­jmenÃ­ osoby	iemands achternaam
+nastavenÃ­ implicitnÃ­ volby poÄ�tu aktivit	instellen van de standaardkeuze van het aantal activiteiten
+mÃ¡ telefon	mijn telefoon
+nastavenÃ­ minimÃ¡lnÃ­ho poÄ�tu udÃ¡lostÃ­	het minimale aantal gebeurtenissen instellen
+mÃ¡ fax	mijn fax
+poznÃ¡mka	Opmerking
+tÃ©ma antÃ©n	het onderwerp van antennes
+tÃ©ma poÄ�Ã­taÄ�ovÃ¡ architektura	het thema van computerarchitectuur
+tÃ©ma operaÄ�nÃ­ch systÃ©mÅ¯	het thema van besturingssystemen
+konferenÄ�nÃ­ udÃ¡lost	Conferentie gebeurtenis
+vÃ½zva na posÃ­lÃ¡nÃ­ pÅ™Ã­spÄ›vkÅ¯	de uitdaging voor het verzenden van bijdragen
+hodnocenÃ½ pÅ™Ã­spÄ›vek	nominale post
+tÃ©ma satelitnÃ­ a vesmÃ­rnÃ© komunikace	het onderwerp van satelliet en ruimte communicatie
+hodnocenÃ­ slabÃ© zamÃ­tnutÃ­	evaluatie van de afwijzing van de zwakke
+pÅ™ednÃ¡Å¡ka	Hoorcollege
+tÃ©ma radiovÃ© komunikace	het thema van de radiocommunicatie
+mÃ­sto konÃ¡nÃ­ veÄ�eÅ™e	de locatie van het diner
+autor prezentujÃ­cÃ­ pÅ™Ã­spÄ›vek	de auteur presenteren de bijdrage
+akceptovanÃ½ pÅ™Ã­spÄ›vek	geaccepteerde bericht
+uzavÃ­rajÃ­cÃ­ pÅ™ednÃ¡Å¡ka	Hoorcollege sluiten
+obÄ›d	lunch
+neakademickÃ¡ udÃ¡lost	neakademickÃ¡, gebeurtenis
+tÃ©ma multimediÃ­	onderwerp multimedia
+cad tÃ©ma	CAD-thema
+tÃ©matickÃ© okruhy	gebied van onderzoek
+tÃ©ma sensorickÃ© poÄ�Ã­taÄ�ovÃ© sÃ­tÄ›	het thema van sensorickÃ© computernetwerken
+akademickÃ¡ udÃ¡lost	academische gebeurtenis
+textovÃ¡ recenznÃ­ otÃ¡zka	tekst beoordeling vraag
+recenze pÅ™Ã­spÄ›vku	beoordeling van de bijdrage
+vÃ½zva na posÃ­lÃ¡nÃ­ Ä�lÃ¡nkÅ¯	de uitdaging voor het verzenden van artikelen
+tÃ©ma komunikaÄ�nÃ­ teorie	het thema van communicatietheorie
+mÃ­sto	in plaats van de
+pÅ™estÃ¡vka	pauze
+jÃ­delnÃ­ menu	diner menu
+hodnocenÃ­ pÅ™ijetÃ­	Gast ontvangst
+recenznÃ­ formulÃ¡Å™	formulier voor evaluatie van
+tÃ©ma mikroelektroniky	het thema van de micro-elektronica
+prezentace pÅ™Ã­spÄ›vku	presentatie van de bijdrage
+pÅ™estÃ¡vka na kÃ¡vu	koffiepauze
+akademickÃ¡ organizace	academische organisatie
+tÃ©ma optickÃ© poÄ�Ã­taÄ�ovÃ© sÃ­tÄ›	het thema van de optische netwerk
+jednoÃºrovÅˆovÃ¡ konference	een van de conferentie
+tÃ©ma lÃ©kaÅ™stvÃ­	het thema van de geneeskunde
+kontaktnÃ­ informace	contact informatie
+mÃ­sto ubytovÃ¡nÃ­	plaats van de accommodatie
+aktivnÃ­ pÅ™Ã­spÄ›vek	de actieve bijdrage
+tÃ©ma poÄ�Ã­taÄ�ovÃ© sÃ­tÄ› a pÅ™epÃ­naÄ�e	het thema van computernetwerken en schakelaars
+konferenÄ�nÃ­ veÄ�eÅ™e	Conferentie diner
+numerickÃ¡ recenznÃ­ otÃ¡zka	numerieke evaluatie vraag
+tÃ©ma poÄ�Ã­taÄ�ovÃ© sÃ­tÄ› a aplikace	het thema van computernetwerken en toepassingen
+vÃ½zva na posÃ­lÃ¡nÃ­ recenzÃ­	de uitdaging voor het verzenden van beoordelingen
+cestovnÃ­ grant	reisbeurs
+nevlÃ¡dnÃ­ organizace	niet-gouvernementele organisaties
+tÃ©ma Å¡ifrovÃ¡nÃ­	het onderwerp van codering
+konferenÄ�nÃ­ sekce	Conferentie sectie
+exkurze	excursies
+sponzorovÃ¡nÃ­	sponsoring
+program konference	het programma van de conferentie
+komunikaÄ�nÃ­ tÃ©ma	het thema communicatie
+prÅ¯myslovÃ¡ organizace	IndustriÃ«le organisatie
+tÃ©ma podnikovÃ© poÄ�Ã­taÄ�ovÃ© sÃ­tÄ›	het thema van het corporate computernetwerk
+hodnocenÃ­ podmÃ­nÄ›nÃ© pÅ™ijetÃ­	evaluatie van voorwaardelijke aanvaarding
+zasedacÃ­ mÃ­stnost	vergaderzaal
+tÃ©ma mÄ›Å™enÃ­ poÄ�Ã­taÄ�ovÃ½ch sÃ­tÃ­	het thema van de meting van computernetwerken
+osobnÃ­ historie publikacÃ­	persoonlijke geschiedenis publicaties
+vlÃ¡dnÃ­ organizace	gouvernementele organisatie
+zahajujÃ­cÃ­ pÅ™ednÃ¡Å¡ka	initiatiefnemende Hoorcollege
+tÃ©ma mobilnÃ­ch poÄ�Ã­taÄ�Å¯	het onderwerp van mobiele computers
+stÃ¡hnutÃ½ pÅ™Ã­spÄ›vek	gedownloade bericht
+publikovanÃ½ pÅ™Ã­spÄ›vek	de gepubliceerde post
+zemÄ›	land
+vÃ½zva	uitdaging
+hodnocenÃ­ recenze	Beoordelingen
+organizaÄ�nÃ­ setkÃ¡nÃ­	organisatie-vergadering
+tÃ©ma napajenÃ­ a pÅ™enosu	het thema van napajenÃ­ en overdracht
+tÃ©ma bezdrÃ¡tovÃ© komunikace	het onderwerp van draadloze communicatie
+tÃ©ma paralelnÃ­ho a distribuovanÃ©ho poÄ�Ã­taÄ�ovÃ©ho zpracovÃ¡nÃ­	het thema van parallelle en gedistribueerde computing
+Ä�len technickÃ©ho programovÃ©ho vÃ½boru	Lid van het technische programma ComitÃ©
+osobnÃ­ historie recenzÃ­	persoonlijke geschiedenis beoordelingen
+recenznÃ­ otÃ¡zka	Review vraag
+dvouÃºrovÅˆovÃ¡ konference	Conferentie 2-niveau
+recepce	Receptie
+hodnocenÃ­ zamÃ­tnutÃ­	evaluatie van de afwijzing van de
+tÃ©ma bezpeÄ�nosti	het onderwerp van de veiligheid
+tÃ©ma sprÃ¡va poÄ�Ã­taÄ�ovÃ½ch sÃ­tÃ­	het thema van het beheer van computernetwerken
+tÃ©ma poÄ�Ã­taÄ�ovÃ© sÃ­tÄ›	het thema van computernetwerk
+nerozhodnutÃ½ Ä�lÃ¡nek	onbeslist het artikel
+osobnÃ­ historie	persoonlijke geschiedenis
+pÅ™estÃ¡vka na jÃ­dlo	maaltijd pauze
+tÃ©ma zpracovÃ¡nÃ­ signÃ¡lu	het onderwerp van signaalverwerking
+vedoucÃ­ sekce	Hoofd van de sectie
+tÃ©ma mÄ›Å™enÃ­ vÃ½konnosti	het thema van prestatiemeting
+tÃ©ma bezpeÄ�nost poÄ�Ã­taÄ�ovÃ½ch sÃ­tÃ­	het onderwerp van de beveiliging van computernetwerken
+tÃ©ma testovÃ¡nÃ­	het onderwerp van het testen
+volnÃ½ Ä�as	Vrije tijd
+mÃ­sto poÅ™Ã¡dÃ¡nÃ­ konference	in plaats van het organiseren van de conferentie
+telefon	telefoon
+datum a Ä�as zahajujÃ­cÃ­ho dne konferenÄ�nÃ­ udÃ¡losti	datum en tijdstip van de opening van de gebeurtenissen van de dag koffie
+ulice	Straat
+Ä�Ã¡stka sponzorskÃ©ho daru	het bedrag van de donatie
+mÄ›na sponzorskÃ©ho daru	donatie valuta
+termÃ­n registrace na konferenci	de termijn van inschrijving voor de conferentie
+patÅ™Ã­ k udÃ¡losti	Het behoort tot de gebeurtenis
+konÃ¡ se v zemi	Het vindt plaats in het land
+mÃ¡ hodnocenÃ­	mijn beoordelingen
+tÃ½kÃ¡ se Ä�eho	met betrekking tot
+vÃ½zva zahÃ¡jena kÃ½m	de uitdaging gelanceerd door
+termÃ­n zvÄ›Å™ejnÄ›nÃ­ konferenÄ�nÃ­ho dokumentu	datum van publicatie van het document van de conferentie
+konÃ¡ se na mÃ­stÄ›	Het vindt plaats ter plaatse
+napsal	schreef
+vÃ½zva na udÃ¡lost	uitnodiging aan de gebeurtenis
+je prezentovÃ¡n Ä�Ã­m	Wat wordt gepresenteerd
+prezentuje pÅ™ijatÃ½ pÅ™Ã­spÄ›vek	geschenken ontvangen per post
+poskytuje sponzorovÃ¡nÃ­	biedt sponsoring
+je mÃ­stem konferenÄ�nÃ­ udÃ¡losti	is de plaats van conferentie-evenementen
+mÃ¡ vÃ½zvu	Mijn uitdaging
+mÃ¡ jÃ­delnÃ­ menu	menu heeft
+je tÃ©matem Ä�eho	Wat is het thema van
+je recenznÃ­ historiÃ­ koho	is de geschiedenis van de beoordeling van die
+mÃ¡ program	het programma heeft
+sponzorovÃ¡nÃ­ je poskytnuto organizacÃ­	sponsoring wordt verzorgd door
+mÃ¡ tÃ©ma	Mijn thema
+mÃ¡ ÃºÄ�astnÃ­ka	de deelnemer heeft
+je Ä�lenem konference	is een lid van de conferentie
+mÃ¡ recenznÃ­ historii	te herzien van de geschiedenis van de
+ÃºÄ�astnÃ­ se	deelnemen aan de
+jÃ­delnÃ­ menu udÃ¡losti	menu gebeurtenissen
+je napsÃ¡n autorem	Het is geschreven door de auteur
+je recenzÃ­ Ä�eho	Wat is de review
+zahajuje vÃ½zvu	lanceert de uitdaging
+mÃ¡ souvisejÃ­cÃ­ dokument	een verwant document heeft
+datum a Ä�as zahajujÃ­cÃ­ho dne konference	datum en tijd van de openingsdag van de conferentie
+termÃ­n poslÃ¡nÃ­ pÅ™Ã­spÄ›vku	de bijdrage van de missie van de term
+instrukce poslÃ¡nÃ­ pÅ™Ã­spÄ›vku	de missie van de post-instructie
+biografie osoby	de biografie van de persoon
+ÃºplnÃ½ nÃ¡zev konference	de volledige naam van de conferentie
+datum a Ä�as zÃ¡vÄ›reÄ�nÃ©ho dne konferenÄ�nÃ­ udÃ¡losti	de datum en tijd van de laatste dag van de conferentie-evenementen
+datum a Ä�as zÃ¡vÄ›reÄ�nÃ©ho dne konference	de datum en tijd van de laatste dag van de conferentie
+termÃ­n zvÄ›Å™ejnÄ›nÃ­ pÅ™Ã­spÄ›vku	datum van bekendmaking van de bijdrage
+poÅ¡tovnÃ­ smÄ›rovacÃ­ Ä�Ã­slo	Postcode
+email	E-mail
+vybranÃ½ pÅ™Ã­spÄ›vek	de geselecteerde post
+pÅ™edseda workshopÅ¯	de Voorzitter van de workshops
+industriÃ¡lnÃ­ sekce	industriÃ«le sectie
+ÃºÄ�astnÃ­k zaregistrovanÃ½ za pozdnÃ­ vloÅ¾nÃ©	belangrijkste deelnemer vergoeding voor late
+industriÃ¡lnÃ­ pÅ™Ã­spÄ›vek	de industriÃ«le post
+abstrakt tutoriÃ¡lu	abstracte tutorial
+pÅ™edsedajÃ­cÃ­ sekce	Voorzitter sectie
+ohodnocenÃ½ pÅ™Ã­spÄ›vek	nominale post
+sbornÃ­k	de werkzaamheden van de
+vysokÃ¡ Å¡kola	middelbare school
+pÅ™edseda sekce demonstracÃ­	de Voorzitter van de afdeling van de demonstratie
+sekce workshopu	de sectie van de workshop
+broÅ¾ura s programem	een brochure met het programma
+pÅ™Ã­spÄ›vek k demonstraci	bijdrage aan de demonstratie
+sekce posterÅ¯	poster sectie
+sekce demonstracÃ­	sectie demonstraties
+vÃ½zkumnÃ© tÃ©ma	onderzoek een onderwerp
+zvanÃ½ Å™eÄ�nÃ­k	genaamd spreker
+vÃ½zkumnÃ½ Ãºstav	Onderzoeksinstituut
+pÅ™Ã­spÄ›vek na konferenci	bijdrage aan de conferentie
+abstrakt zvanÃ© pÅ™ednÃ¡Å¡ky	een samenvatting van de uitgenodigde besprekingen
+standardnÃ­ sekce	een standaardsectie
+akademickÃ¡ instituce	academische instelling
+pÅ™ednÃ¡Å¡ejÃ­cÃ­	Docent
+pÅ™Ã­spÄ›vek k posteru	bijdrage aan de poster
+letÃ¡k	bijsluiter
+negativnÃ­ recenze	negatieve beoordelingen
+pÅ™edseda organizaÄ�nÃ­ho vÃ½boru	Voorzitter van het Organiserend ComitÃ©
+spoleÄ�enskÃ½ program	sociaal programma
+pozitivnÃ­ recenze	positieve beoordelingen
+pÅ™edseda tutoriÃ¡lÅ¯	de Voorzitter van de tutorials
+Ä�len organizaÄ�nÃ­ho vÃ½boru	Lid van het Organiserend ComitÃ©
+ÃºÄ�astnÃ­k zaregistrovanÃ½ za Ä�asnÃ© vloÅ¾nÃ©	de deelnemer geregistreerd voor vroegtijdige vergoeding
+konferenÄ�nÃ­ vÃ½let	Conferentie reis
+poÅ™Ã¡dajÃ­cÃ­ agentura	het organiserende agentschap
+sekce	sectie
+standardnÃ­ pÅ™Ã­spÄ›vek	gewone post
+pÅ™iÅ™azenÃ½ pÅ™Ã­spÄ›vek	toegewezen aan de post
+jednotlivÃ¡ prezentace	de individuele presentatie
+pÅ™Ã­spÄ›vek na workshop	bijdrage aan de workshop
+vydavatel sbornÃ­ku	de uitgever van de procedure
+pracovnÃ­k poÅ™Ã¡dajÃ­cÃ­ agentury	werknemer organiserende agentschap
+vÃ­ceautorskÃ½ svazek	vÃ­ceautorskÃ½ volume
+odbornÃ¡ udÃ¡lost	professioneel evenement
+neutrÃ¡lnÃ­ recenze	neutrale beoordelingen
+webovÃ¡ strÃ¡nka	Web-pagina
+podanÃ½ pÅ™Ã­spÄ›vek	ingediend per post
+Ä�len Å™Ã­dÃ­cÃ­ho vÃ½boru	Lid van het ComitÃ© van beheer
+finÃ¡lnÃ­ verze pÅ™Ã­spÄ›vku	de definitieve versie van de bijdrage
+moÅ¾nÃ½ recenzent	mogelijk revisor
+autor pÅ™Ã­spÄ›vku	de auteur van de bijdrage
+napsÃ¡no kÃ½m	Geplaatst door die
+inverse of partof 7	de inverse van een deel van 7
+je souÄ�Ã¡stÃ­	Het is onderdeel van
+odbornÄ› organizuje	professioneel georganiseerd
+odkazuje na	verwijst naar de
+mÃ¡ souÄ�Ã¡st	maakt deel uit van de
+technicky organizovÃ¡no kÃ½m	technisch, georganiseerd door de die
+pokrÃ½vÃ¡ tÃ©ma	dekt het thema 's
+je souÄ�Ã¡stÃ­ udÃ¡losti	Het is onderdeel van de gebeurtenis
+mÃ¡ aktualizaci	Mijn update
+referuje o udÃ¡losti	verslagen over de gebeurtenissen
+odbornÄ› organizovÃ¡no kÃ½m	professioneel georganiseerd door
+pÅ™Ã­spÄ›vek ve svazku	post in het volume
+udÃ¡lost uvedena na	de gebeurtenis vermeld op de
+je mÃ­stem konÃ¡nÃ­	is de locatie
+mÃ¡ recenzenta	revisor heeft
+recenzent pÅ™Ã­spÄ›vku	Revisor bijdrage
+konÃ¡se v	konÃ¡se in
+odkazovÃ¡n v	waarnaar wordt verwezen in de
+mÃ¡ recenzi	Mijn review
+je aktualizacÃ­	is een update
+svazek obsahuje pÅ™Ã­spÄ›vek	het volume bevat een post
+je autorem	Hij is de auteur
+organizuje	organiseert
+organizovÃ¡no kÃ½m	georganiseerd door de die
+tÃ©ma pokryto Ä�Ã­m	het onderwerp aan bod door de
+je vydavatelem	de uitgever is
+technicky organizuje	technisch, organiseert
+obsahuje udÃ¡lost	de gebeurtenis bevat
+pÅ™Ã­spÄ›vek prezentovÃ¡n jako	post gepresenteerd als
+bankovnÃ­ pÅ™evod	Bankoverschrijving
+poplatek za vÃ½let navÃ­c	Bovendien, de vergoeding van de reis
+neprezentujÃ­cÃ­ pracovnÃ­k	neprezentujÃ­cÃ­ werknemer
+konferenÄ�nÃ­ budova	Conferentie gebouw
+registraÄ�nÃ­ poplatek pro Ä�lena konference	het inschrijvingsgeld voor een lid van de conferentie
+pokonferenÄ�nÃ­ aktivita	na conferentie activiteit
+publikace	publicaties
+mÄ›na	valuta
+konferenÄ�nÃ­ hotel	Conferentiehotel
+plenÃ¡rnÃ­ pÅ™ednÃ¡Å¡ejÃ­cÃ­	plenaire vergadering docenten
+pÅ™ednÃ¡Å¡ka pÅ™ednÃ¡Å¡ejÃ­cÃ­m	Hoorcollege docent
+Å¡ek	selectievakje
+aktivita pÅ™ijÃ­manÃ­ pÅ™Ã­spÄ›vku	activiteit bijdrage ontvangen
+univerzita prezentujÃ­cÃ­ho	Universiteit van prezentujÃ­cÃ­ho
+aktivita	activiteit
+dÅ¯m prezentujÃ­cÃ­ho	Huis prezentujÃ­cÃ­ho
+jednodennÃ­ prezentujÃ­cÃ­	eendaagse presenteren
+poplatek	vergoeding
+aktivita simulace	simulatie activiteit
+zvacÃ­ dopis	Brief van uitnodiging
+vÃ½letnÃ­ mÄ›sto	Cruise de stad
+hotelovÃ½ uvadÄ›Ä�	Hotel usher
+zemÄ› konference	de land-conferenties
+termÃ­n podÃ¡nÃ­ verze pro tisk	uiterste datum voor indiening van gedrukte versie
+konferenÄ�nÃ­ aktivita	Conferentie activiteit
+vÃ½zkumnÃ¡ aktivita	onderzoeksactiviteit
+spropitnÃ©	Tip
+sponzor	sponsor
+Ä�asovÃ© pÃ¡smo	timezone
+registraÄ�nÃ­ poplatek pro neÄ�lena konference	het inschrijvingsgeld voor niet-leden in de conferentie
+celodennÃ­ vÃ½let	dagtocht
+autor, kterÃ½ obdrÅ¾Ã­ sbornÃ­k na cd	de auteur, die de Conference proceedings op cd ontvangt
+pÅ™ednÃ¡Å¡ejÃ­cÃ­ pracovnÃ­k	Docent-onderzoeker
+pÅ™edkonferenÄ�nÃ­ aktivita	pre-conferentie activiteit
+hotelovÃ¡ mÃ­stnost	de hotelkamer
+dÅ¯m sponzora	Huis sponsor
+penÄ›Å¾nÃ­ Ä�Ã¡stka	het bedrag aan contanten
+pÅ™edstavenÃ­	optredens
+neÄ�len konference iasted	een lid van de iasted conferentie
+hotelovÃ½ poplatek	Hotel vergoeding
+auto	auto
+mÄ›sto sponzora	Stad sponsor
+konferenÄ�nÃ­ hala	Conferentie zaal
+mÄ›sto prezentujÃ­cÃ­ho	Stad prezentujÃ­cÃ­ho
+registraÄ�nÃ­ poplatek pro neautora	het inschrijvingsgeld voor neautora
+registrace na konferenci	registratie voor de conferentie
+informaÄ�nÃ­ formulÃ¡Å™ pro autora	informatieformulier voor de auteur
+aktivita zamÃ­tnutÃ­ pÅ™Ã­spÄ›vku	de activiteit van de afwijzing van de bijdrage
+dny konference	de dagen van de conferentie
+prezentaÄ�nÃ­ slajdy	presentatie dia 's
+budova	gebouw
+mikrobus	minibus
+termÃ­n oznÃ¡menÃ­ o pÅ™ijetÃ­	de term kennisgeving van aanvaarding
+autor, kterÃ½ obdrÅ¾Ã­ tiÅ¡tÄ›nÃ½ sbornÃ­k	de auteur, die de afgedrukte procedure ontvangt
+uvodnÃ­ verze pÅ™Ã­spÄ›vku	Huis versies van de bijdrage
+struÄ�nÃ© pÅ™edstavenÃ­ vedoucÃ­mu sekce	korte inleiding tot de head-sectie
+formulÃ¡Å™	formulier
+hotelovÃ½ registraÄ�nÃ­ formulÃ¡Å™	het hotel registratieformulier
+pÅ™epravnÃ­ postÅ™edek	vervoer postÅ™edek
+konferenÄ�nÃ­ den	Conferentiedag
+powerpointovÃ¡ prezentace	PowerPoint-presentatie
+artikl	Artikel
+termÃ­n	de term
+registraÄ�nÃ­ poplatek	de registratieprijs
+Ä�len konference iasted	de iasted conferentie
+Ä�as	tijd
+mÃ­stnost konferenÄ�nÃ­ sekce	Conferentie kamer sectie
+spoleÄ�enskÃ¡ aktivita	sociale activiteit
+poÄ�Ã­taÄ�	computer
+veÄ�ernÃ­ banket	's avonds feestzaal
+ÃºÄ�astnÃ­k konference?	deelnemer van de conferentie?
+sbornÃ­k na cd	Congresverslagen op cd
+technickÃ¡ aktivita	technische activiteit
+jednolÅ¯Å¾kovÃ½ hotelovÃ½ pokoj	Ã©Ã©n hotelkamer
+neprezentujÃ­cÃ­ student	neprezentujÃ­cÃ­ student
+aktivita modelovÃ¡nÃ­	activiteit modellering
+sponzorskÃ½ dar	sponsoring
+taxi	taxi
+odjezd	het vertrek van de
+aktivita odmÃ­tnutÃ­ pÅ™Ã­spÄ›vku	de activiteit van de afwijzing van de bijdrage
+termÃ­n hotelovÃ© rezervace	termijn voor hotelreservering
+termÃ­n podÃ¡nÃ­ pÅ™Ã­spÄ›vku	de termijn van de bijdrage
+daÅˆ z odjezdu	Vertrekbelasting
+podÃ¡nÃ­ pÅ™Ã­spÄ›vku	de indiening van de bijdrage van de
+posluchaÄ�	de luisteraar
+audiovizuÃ¡lnÃ­ vybavenÃ­	audiovisuele apparatuur
+konferenÄ�nÃ­ letiÅ¡tÄ›	Conferentie luchthaven
+dvoulÅ¯Å¾kovÃ½ hotelovÃ½ pokoj	Hotel Tweepersoonskamer
+registraÄ�nÃ­ poplatek pro studenta	het inschrijvingsgeld voor de student
+lcd projektor	LCD-projector
+technickÃ½ vÃ½bor	het technisch comitÃ©
+konferenÄ�nÃ­ vÃ½letnÃ­k	Conferentie reizen
+konferenÄ�nÃ­ restaurant	Conferentie restaurant
+zemÄ› prezentujÃ­cÃ­ho	land prezentujÃ­cÃ­ho
+vrchnÃ­ projektor	hoofd projector
+plenÃ¡rnÃ­ pÅ™ednÃ¡Å¡ka	plenaire vergadering Hoorcollege
+pÅ™ehrÃ¡vaÄ� videokazet	videoband speler
+pÅ™edstavenÃ­ pÅ™ednÃ¡Å¡ejÃ­cÃ­ho	Toon presentator
+platebnÃ­ karta	betaalkaart
+vÃ­zum	Visum
+pÅ™ednÃ¡Å¡ejÃ­cÃ­ student	Docent, student
+neprezentujÃ­cÃ­	neprezentujÃ­cÃ­
+kreditnÃ­ karta	creditcard
+konferenÄ�nÃ­ registraÄ�nÃ­ formulÃ¡Å™	Conferentie registratieformulier
+daÅˆ	belasting
+registraÄ�nÃ­ poplatek autora pro obdrÅ¾enÃ­ tiÅ¡tÄ›nÃ©ho sbornÃ­ku	Auteur inschrijvingsgeld voor de ontvangst van de afgedrukte congresverslagen
+hlavnÃ­ kancelÃ¡Å™	het hoofdkantoor
+pÅ™ednÃ¡Å¡ejÃ­cÃ­ tutoriÃ¡lu	de docent tutorial
+dodÃ¡vka	levering
+zÃ¡znam ÃºÄ�asti	record deelname
+seznam emailÅ¯	de lijst van e-mails
+konferenÄ�Ã­ mÄ›sto	konferenÄ�Ã­ stad
+video prezentace	video presentatie
+registraÄ�nÃ­ poplatek autora pro obdrÅ¾enÃ­ sbornÃ­ku na cd	Auteur inschrijvingsgeld voor de ontvangst van congresverslagen op cd
+prezentujÃ­cÃ­	presenteren
+den vÃ½letu	dagtocht
+daÅˆ z pÅ™idanÃ© hodnoty	toegevoegde waarde belasting
+tiÅ¡tÄ›nÃ½ sbornÃ­k	gedrukte procedure
+zemÄ› sponzora	land sponsor
+platebnÃ­ dokument	betaling document
+aktivita najmutÃ­ auta	auto huren activiteit
+uvÃ­tacÃ­ proslov	Welkomstspeech
+aktivita datovÃ¡na na datum a Ä�as	activiteit gedateerd op de datum en tijd
+je obÃ½vÃ¡n kÃ½m	Het wordt bewoond door de die
+pouÅ¾ito kÃ½m	gebruikt door
+podepsÃ¡no kÃ½m	ondertekend door de die
+udÄ›lÃ¡n z	gemaakt van
+vyuÅ¾it pro	gebruikt voor de
+platÃ­	van toepassing is
+umÃ­stÄ›no kde	waar ligt de
+poslÃ¡no Ä�asovÄ› pÅ™ed	Gepost in tijd vÃ³Ã³r de
+je vybaven Ä�Ã­m	Het is uitgerust met de
+zaujÃ­mÃ¡ mÃ­sto	plaatsvindt
+konÃ¡ se pÅ™ed	Het vindt plaats vÃ³Ã³r de
+podepisuje	ondertekend door de
+posÃ­lÃ¡	stuurt
+mluvÃ­ kdy a kde	praten over waar en wanneer
+je zaplaceno kÃ½m	die wordt betaald
+obdrÅ¾Ã­	ontvangt de
+je pÅ™Ã­tomen kdy	Het is aanwezig wanneer
+je pÅ™Ã­tomen kdy a kde	Het is aanwezig wanneer en waar
+placeno pro co	betaald voor wat
+platba probÄ›hla kde	de betaling vond plaats waar
+konÃ¡ se kdy a kde	Het vindt plaats wanneer en waar
+konÃ¡ se po	Het vindt plaats na de
+je spojen s	Het is gekoppeld
+je pÅ™idÄ›len komu	Hij is toegewezen aan
+souvisÃ­ s	betrekking tot de
+navÅ¡tÃ­veno kÃ½m	bezocht door
+datum termÃ­nu	Futures datum
+Ä�Ã¡stka penÄ›z	de hoeveelheid geld
+pÅ™ipraveno kÃ½m	opgesteld door
+potÅ™ebuje	behoeften
+poslÃ¡no kÃ½m	Geplaatst door wie
+souvisÃ­ s aktivitou	verband houden met de activiteiten
+poslÃ¡no Ä�asovÄ› po	tijdstip van de verzending na
+je pÅ™ipraven pro	Het is klaar voor
+pÅ™ipravuje artikl	artikel voorbereiding
+placeno Ä�Ã­m	betaald de
+je potÅ™ebnÃ½ pro	nodig is voor
+konference acm sigkdd	ACM sigkdd conferentie
+autor Ä�lÃ¡nku	Auteur van het artikel
+sponzor nejlepÅ¡Ã­ho studentskÃ©ho Ä�lÃ¡nku	sponsor de beste student artikel
+termÃ­n zaslÃ¡nÃ­ Ä�lÃ¡nku	de deadline voor het verzenden van artikel
+hlavnÃ­ kancelÃ¡Å™ konference	het hoofdkantoor van de conferentie
+stÅ™Ã­brnÃ½ sponzor	Zilveren sponsor
+sponzorskÃ½ poplatek	sponsoring vergoeding
+posluchaÄ� konference	Student conferentie
+ocenÄ›nÃ­ za nejlepÅ¡Ã­ vÃ½zkumnÃ½ Ä�lÃ¡nek	Award voor de beste onderzoeksartikel
+registraÄ�nÃ­ poplatek pro studenty	het inschrijvingsgeld voor studenten
+osoba aktivnÃ­ na konferenci	een persoon die actief zijn in de conferentie
+ocenÄ›nÃ­ za Ä�lÃ¡nek na konferenci	een award voor een artikel over de conferentie
+ocenÄ›nÃ­ za nejlepÅ¡Ã­ aplikaÄ�nÃ­ Ä�lÃ¡nek	Award voor de beste toepassing van artikel
+zlatÃ½ sponzor konference	Goud sponsor van de conferentie
+ocenÄ›nÃ­ za nejlepÅ¡Ã­ studentskÃ½ Ä�lÃ¡nek	Award voor beste student artikel
+konferenÄ�nÃ­ poplatek	Conferentie vergoeding
+vÃ½bor pro udÄ›lovÃ¡nÃ­ ocenÄ›nÃ­ za nejlepÅ¡Ã­ Ä�lÃ¡nky	ComitÃ© voor de uitreiking van de prijs voor de beste artikelen
+termÃ­n zaslÃ¡nÃ­ abstraktu	termijn abstracte indiening
+platinovÃ½ sponzor konference	Platina sponsor van de conferentie
+termÃ­n vyrozumÄ›nÃ­ autorÅ¯	de term kennisgeving van auteurs
+registraÄ�nÃ­ poplatek pro neÄ�lena sig	het inschrijvingsgeld voor niet-leden in de sig
+ogranizÃ¡tor konference	ogranizÃ¡tor conferentie
+registraÄ�nÃ­ poplatek pro Ä�lena sigkdd	het inschrijvingsgeld voor een lid van sigkdd
+bronzovÃ½ sponzor konference	Bronze sponsor van de conferentie
+registraÄ�nÃ­ poplatek pro Ä�lena sigmod	het inschrijvingsgeld voor een lid van de sigmod
+autor studentskÃ© Ä�lÃ¡nku	de auteur van het artikel van de student
+sponzor se stÃ¡nkem	Sponsor zal staan
+sprÃ¡vce webu	de beheerder van deze site
+hotel	Hotel
+hledÃ¡ sponzory	op zoek naar sponsors
+stanoveny termÃ­ny pro	instellen van de voorwaarden voor de
+dokument prezentovÃ¡n kÃ½m	het document gepresenteerd door
+konference poÅ™Ã¡dÃ¡na	Conferentie georganiseerd door
+stanoveny termÃ­ny	vaste datums
+termÃ­n pro odeslÃ¡nÃ­	de deadline voor het indienen
+poÅ™Ã¡dÃ¡ konferenci	georganiseerd door de Conferentie van de
+sÃ­dlÃ­ v	gehuisvest de
+je stanoven na	wordt bepaald op de
+jmÃ©no sponzora	de naam van de opdrachtgever
+jmÃ©no konference	de naam van de conferentie
+jmenuje se	zijn naam is
+nÃ¡rodnost	de nationaliteit van de
+zaplatil registraÄ�nÃ­ poplatek	Betaal het inschrijvingsgeld
+ocenÄ›no	bekroond met de
+mÃ¡ ocenÄ›nÃ­	Mijn Awards
+datum zÃ¡vÄ›reÄ�nÃ©ho dne konference	de datum van de laatste dag van de conferentie
+datum prvnÃ­ho dne konference	de datum van de eerste dag van de conferentie
+cena	prijs
+registraÄ�nÃ­ poplatek je ve mÄ›nÄ›	het inschrijvingsgeld is, in de valuta van de
+mÄ›sto poÅ™Ã¡dÃ¡nÃ­ konference	de stad van conferenties
+zÃ­skal ocenÄ›nÃ­	won de award
+prezentace dokumentu	de presentatie van het document
+zaslÃ¡nÃ­ Ä�lÃ¡nku	Stuur artikel
+sponzoÅ™i hledÃ¡ni kÃ½m	zoeken naar sponsors die
+registraÄ�nÃ­ poplatek zaplacen kÃ½m	de registratie taks is betaald door

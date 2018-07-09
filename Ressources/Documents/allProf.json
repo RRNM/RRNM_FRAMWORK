@@ -1,0 +1,285 @@
+{
+	"professors" : {
+		"professor" : [ {
+			"@id" : "ambost",
+			"lastname" : "AMBOS",
+			"firstname" : "TINA",
+			"email" : "Tina.Ambos@unige.ch",
+			"usualname" : "AMBOS",
+			"nip" : "ambost",
+			"officenumber" : "M3236",
+			"tel" : "22.379.82.03",
+			"salutation" : {
+				"@code" : "02",
+				"lib_fr" : "Professeur",
+				"lib_en" : "Professor"
+			},
+			"typefac" : {
+				"@code" : "PER",
+				"lib_fr" : "Permanent",
+				"lib_en" : "Permanent"
+			},
+			"titrefac" : {
+				"@code" : "01",
+				"lib_fr" : "Professeur ordinaire",
+				"lib_en" : "Full Professor"
+			},
+			"unit" : {
+				"@id" : "2",
+				"code" : "IOM",
+				"lib_fr" : "Institute of Management",
+				"lib_en" : "Institute of Management",
+				"typeunit" : {
+					"@code" : "01",
+					"lib_fr" : "Institut",
+					"lib_en" : "Institute"
+				}
+			},
+			"campus" : {
+				"@code" : "1",
+				"lib_fr" : "Uni Mail",
+				"lib_en" : "Uni Mail",
+				"sigle" : null
+			},
+			"disciplin" : {
+				"@code" : "MAN",
+				"lib_fr" : "Management International",
+				"lib_en" : "International Management"
+			},
+			"cataacsb" : {
+				"@code" : "P",
+				"lib_fr" : "Participating",
+				"lib_en" : "Participating"
+			},
+			"qualifaacsb2013" : {
+				"@code" : "SA",
+				"lib_fr" : "Scholarly Academics",
+				"lib_en" : "Scholarly Academics"
+			}
+		}, {
+			"@id" : "cantoni",
+			"lastname" : "CANTONI",
+			"firstname" : "EVA",
+			"email" : "Eva.Cantoni@unige.ch",
+			"usualname" : "CANTONI",
+			"nip" : "cantoni",
+			"officenumber" : "M5254",
+			"tel" : "022.379.82.40",
+			"salutation" : {
+				"@code" : "02",
+				"lib_fr" : "Professeur",
+				"lib_en" : "Professor"
+			},
+			"typefac" : {
+				"@code" : "PER",
+				"lib_fr" : "Permanent",
+				"lib_en" : "Permanent"
+			},
+			"titrefac" : {
+				"@code" : "02",
+				"lib_fr" : "Professeur associé",
+				"lib_en" : "Associate Professor"
+			},
+			"unit" : {
+				"@id" : "4",
+				"code" : "RCS",
+				"lib_fr" : "Research Center for Statistics",
+				"lib_en" : "Research Center for Statistics",
+				"typeunit" : {
+					"@code" : "01",
+					"lib_fr" : "Institut",
+					"lib_en" : "Institute"
+				}
+			},
+			"campus" : {
+				"@code" : "1",
+				"lib_fr" : "Uni Mail",
+				"lib_en" : "Uni Mail",
+				"sigle" : null
+			},
+			"disciplin" : {
+				"@code" : "STAT",
+				"lib_fr" : "Statistique",
+				"lib_en" : "Statistics"
+			},
+			"cataacsb" : {
+				"@code" : "P",
+				"lib_fr" : "Participating",
+				"lib_en" : "Participating"
+			},
+			"qualifaacsb2013" : {
+				"@code" : "SA",
+				"lib_fr" : "Scholarly Academics",
+				"lib_en" : "Scholarly Academics"
+			}
+		}, {
+			"@id" : "laurentl",
+			"lastname" : "LUCCHETTI",
+			"firstname" : "JEREMY",
+			"email" : "Jeremy.Lucchetti@unige.ch",
+			"usualname" : "LUCCHETTI",
+			"nip" : "laurentl",
+			"officenumber" : "M5268",
+			"tel" : "022.379.82.81",
+			"salutation" : {
+				"@code" : "02",
+				"lib_fr" : "Professeur",
+				"lib_en" : "Professor"
+			},
+			"typefac" : {
+				"@code" : "PER",
+				"lib_fr" : "Permanent",
+				"lib_en" : "Permanent"
+			},
+			"titrefac" : {
+				"@code" : "04",
+				"lib_fr" : "Professeur assistant",
+				"lib_en" : "Assistant Professor"
+			},
+			"unit" : {
+				"@id" : "1",
+				"code" : "IEE",
+				"lib_fr" : "Institute of Economics and Econometrics",
+				"lib_en" : "Institute of Economics and Econometrics",
+				"typeunit" : {
+					"@code" : "01",
+					"lib_fr" : "Institut",
+					"lib_en" : "Institute"
+				}
+			},
+			"campus" : {
+				"@code" : "1",
+				"lib_fr" : "Uni Mail",
+				"lib_en" : "Uni Mail",
+				"sigle" : null
+			},
+			"disciplin" : {
+				"@code" : "ECO",
+				"lib_fr" : "Economie",
+				"lib_en" : "Economics"
+			},
+			"cataacsb" : {
+				"@code" : "P",
+				"lib_fr" : "Participating",
+				"lib_en" : "Participating"
+			},
+			"qualifaacsb2013" : {
+				"@code" : "SA",
+				"lib_fr" : "Scholarly Academics",
+				"lib_en" : "Scholarly Academics"
+			}
+		}, {
+			"@id" : "mmenz",
+			"lastname" : "MENZ",
+			"firstname" : "MARKUS",
+			"email" : "Markus.Menz@unige.ch",
+			"usualname" : "MENZ",
+			"nip" : "mmenz",
+			"officenumber" : "M3242",
+			"tel" : "022.379.81.28",
+			"salutation" : {
+				"@code" : "02",
+				"lib_fr" : "Professeur",
+				"lib_en" : "Professor"
+			},
+			"typefac" : {
+				"@code" : "PER",
+				"lib_fr" : "Permanent",
+				"lib_en" : "Permanent"
+			},
+			"titrefac" : {
+				"@code" : "02",
+				"lib_fr" : "Professeur associé",
+				"lib_en" : "Associate Professor"
+			},
+			"unit" : {
+				"@id" : "2",
+				"code" : "IOM",
+				"lib_fr" : "Institute of Management",
+				"lib_en" : "Institute of Management",
+				"typeunit" : {
+					"@code" : "01",
+					"lib_fr" : "Institut",
+					"lib_en" : "Institute"
+				}
+			},
+			"campus" : {
+				"@code" : "1",
+				"lib_fr" : "Uni Mail",
+				"lib_en" : "Uni Mail",
+				"sigle" : null
+			},
+			"disciplin" : {
+				"@code" : "STR",
+				"lib_fr" : "Management stratégique",
+				"lib_en" : "Strategic Management"
+			},
+			"cataacsb" : {
+				"@code" : "P",
+				"lib_fr" : "Participating",
+				"lib_en" : "Participating"
+			},
+			"qualifaacsb2013" : {
+				"@code" : "SA",
+				"lib_fr" : "Scholarly Academics",
+				"lib_en" : "Scholarly Academics"
+			}
+		}, {
+			"@id" : "zufferen",
+			"lastname" : "ZUFFEREY",
+			"firstname" : "NICOLAS",
+			"email" : "N.Zufferey@unige.ch",
+			"usualname" : "ZUFFEREY",
+			"nip" : "zufferen",
+			"officenumber" : "M3240",
+			"tel" : "022.379.81.24",
+			"salutation" : {
+				"@code" : "02",
+				"lib_fr" : "Professeur",
+				"lib_en" : "Professor"
+			},
+			"typefac" : {
+				"@code" : "PER",
+				"lib_fr" : "Permanent",
+				"lib_en" : "Permanent"
+			},
+			"titrefac" : {
+				"@code" : "01",
+				"lib_fr" : "Professeur ordinaire",
+				"lib_en" : "Full Professor"
+			},
+			"unit" : {
+				"@id" : "2",
+				"code" : "IOM",
+				"lib_fr" : "Institute of Management",
+				"lib_en" : "Institute of Management",
+				"typeunit" : {
+					"@code" : "01",
+					"lib_fr" : "Institut",
+					"lib_en" : "Institute"
+				}
+			},
+			"campus" : {
+				"@code" : "1",
+				"lib_fr" : "Uni Mail",
+				"lib_en" : "Uni Mail",
+				"sigle" : null
+			},
+			"disciplin" : {
+				"@code" : "OPE",
+				"lib_fr" : "Management des Opérations",
+				"lib_en" : "Operations Management"
+			},
+			"cataacsb" : {
+				"@code" : "P",
+				"lib_fr" : "Participating",
+				"lib_en" : "Participating"
+			},
+			"qualifaacsb2013" : {
+				"@code" : "SA",
+				"lib_fr" : "Scholarly Academics",
+				"lib_en" : "Scholarly Academics"
+			}
+		} ]
+	}
+}

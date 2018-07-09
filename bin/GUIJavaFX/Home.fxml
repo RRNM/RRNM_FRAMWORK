@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXDrawer?>
+<?import com.jfoenix.controls.JFXHamburger?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane id="AnchorPane" fx:id="root" prefHeight="546.0" prefWidth="711.0" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1" fx:controller="GUIJavaFX.HomeController">
+    <children>
+      <JFXDrawer fx:id="drawer" defaultDrawerSize="200.0" layoutY="-6.0" maxHeight="1.7976931348623157E308" prefHeight="555.0" prefWidth="126.0" AnchorPane.leftAnchor="0.0" />
+      <JFXHamburger fx:id="hamburger" layoutX="657.0" layoutY="14.0" />
+      <Text layoutX="327.0" layoutY="146.0" strokeType="OUTSIDE" strokeWidth="0.0" text="&quot;This is a prototype of the approach ' Access to organizational knowledge - ontologies'network approach' Add knowledge UI allows user to add a knowledge ressource that will be parsed into ontology and added to the network. &quot;;" wrappingWidth="150.13671875" />
+    </children>
+</AnchorPane>

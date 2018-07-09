@@ -1,0 +1,1354 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22_rdf_syntax_ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf_schema#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <owl:Ontology rdf:about="http://www.ontologie.fr/monexcelO#"/>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#10.05.16">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#_D008B___voir_PV_seance_5.10_avec_JPC">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#TACHES_PAR_DELAIS_2016.xlsx">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#demandes_IEL_en_cours_a_suivre">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#termine">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#SI__WINSOFT">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#DVM">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#demander_a_DVM_pour_31.10">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#D033__gt__ressources_relatives_a_cette_demande__">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#TBC">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#Processus">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#D016________D019">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#SI">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant_GSEM.xlsx">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#SI/DVM">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#References">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#SAE">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#D021:_dossier_en_traitement_S5ECOMA1617__gt___">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#TableauGSEM.docx">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#Oumaima.Ajmiatunige.ch">
+    <rdfs:label></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#Demandes">
+    <rdfs:label></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#SI,">
+    <rdfs:label></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#SI_SAAE">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#Services">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#des">
+    <rdfs:label></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#Planification">
+    <rdfs:label></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#En_cours__gt__fige">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#demande_D011B">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#Organisation">
+    <rdfs:label></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#Notification_dates_examens">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#D023">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#07.07.2016">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#SI/SAAE">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#Document">
+    <rdfs:label xml:lang="en"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#25.04.16">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#Planning_201602__email.pdf">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#D028_D031_D032_:_dossier_en_traitement_S5ECOMA1617">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#04.07.2016">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#STI/DVM">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#taches">
+    <rdfs:label></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#29.06.2016">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#inscriptions_IEL_prolongees_par_SAE__gt__jusqu_apos_au_28.10">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#Statut">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#Termine">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#25.07.2016">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#Email_RetourdesdocumentsRE.pdf">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#SI/SAE">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#Done">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#PV_Reunion_de_suivi_hebdomadaire_SI_etudiant_28.06.2016">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#Non_demarre">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#En_cours__gt__prolonge">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#D022">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#D008B__gt__donnees_pour_notes_et_moyennes">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#30.06.16">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#En_cours">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#Date_Fin">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#10.06.16">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#DVN">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#30.05.16">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#D009B">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#STI">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#27.05.16">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#SI/statistiques">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#Remarques__Oumaima_">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#eMAIL_Confirmation">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.ontologie.fr/monexcelO#Date_debut">
+    <rdfs:label xml:lang="fr"></rdfs:label>
+  </owl:Class>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row8_Colum2">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#07.07.2016"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row35_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#SI/SAE"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row56_Colum4">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row38_Colum6">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row10_Colum2">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#25.07.2016"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row15_Colum5">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row33_Colum3">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#is_Path">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#Document"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#createdBy">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#Oumaima.Ajmiatunige.ch"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row24_Colum4">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#En_cours__gt__fige"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row47_Colum5">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row12_Colum6">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row26_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#STI"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row59_Colum2">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row29_Colum6">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row5_Colum4">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row2_Colum6">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row42_Colum2">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#hasdescription">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row53_Colum5">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row30_Colum4">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#termine"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row41_Colum1">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row21_Colum5">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row2_Colum1">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row44_Colum6">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row24_Colum5">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row8_Colum3">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row18_Colum4">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#En_cours__gt__prolonge"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row56_Colum3">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row38_Colum5">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row33_Colum4">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#termine"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row15_Colum6">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row58_Colum1">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row44_Colum1">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row47_Colum4">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row36_Colum2">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row51_Colum2">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row12_Colum5">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row42_Colum3">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row17_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#SI/SAE"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row5_Colum5">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row27_Colum3">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row29_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#SI/DVM"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row32_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#SAE"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row53_Colum6">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row21_Colum4">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#En_cours"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row24_Colum6">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#demande_D011B"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row38_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#SI/DVM"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row7_Colum6">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#Planning_201602__email.pdf"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row8_Colum4">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row56_Colum2">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row5_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#SI"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row10_Colum4">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row38_Colum4">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#Non_demarre"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row33_Colum5">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row41_Colum6">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row50_Colum6">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row47_Colum3">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row59_Colum4">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row29_Colum4">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#termine"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row50_Colum5">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row58_Colum6">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#is_Title">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#Document"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row5_Colum2">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row42_Colum4">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row51_Colum3">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row60_Colum2">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#hassubject">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row23_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#SI/DVM"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row55_Colum1">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row30_Colum6">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_category">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#Planification"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row8_Colum5">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row14_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#DVM"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row33_Colum6">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row10_Colum3">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row47_Colum2">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row38_Colum3">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row59_Colum3">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row29_Colum5">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row42_Colum5">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row51_Colum4">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row5_Colum3">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#10.06.16"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row47_Colum1">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row49_Colum6">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row21_Colum6">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#_D008B___voir_PV_seance_5.10_avec_JPC"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row60_Colum3">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row58_Colum5">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row30_Colum5">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row8_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#SAE"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row54_Colum4">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row20_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#SI/DVM"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row37_Colum1">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row48_Colum3">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row6_Colum2">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#29.06.2016"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row4_Colum1">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row39_Colum4">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#Non_demarre"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row55_Colum6">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row10_Colum6">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#eMAIL_Confirmation"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row3_Colum4">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row36_Colum5">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row56_Colum1">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row11_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#DVM"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row45_Colum4">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row57_Colum2">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row27_Colum6">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#D028_D031_D032_:_dossier_en_traitement_S5ECOMA1617"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row12_Colum2">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row4_Colum6">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#TACHES_PAR_DELAIS_2016.xlsx"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row48_Colum2">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row54_Colum3">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row46_Colum6">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row31_Colum4">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#termine"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row10_Colum5">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row39_Colum3">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row40_Colum3">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row1_Colum6">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#TableauGSEM.docx"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row55_Colum5">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row15_Colum2">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row6_Colum3">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row3_Colum5">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row29_Colum3">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row34_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#DVM"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row45_Colum5">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row46_Colum1">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row36_Colum6">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#is_a">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row31_Colum5">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row61_Colum5">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row7_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#SAE"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row54_Colum2">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row18_Colum5">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#inscriptions_IEL_prolongees_par_SAE__gt__jusqu_apos_au_28.10"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row48_Colum5">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row40_Colum4">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#Non_demarre"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row53_Colum1">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row0_Colum6">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#References"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row24_Colum2">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row39_Colum6">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row6_Colum4">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row36_Colum3">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row19_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#SI/DVM"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row12_Colum4">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row43_Colum6">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row25_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#SI/SAAE"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row45_Colum2">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row52_Colum5">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row57_Colum4">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row21_Colum3">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row27_Colum4">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#En_cours"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row3_Colum2">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#27.05.16"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row61_Colum6">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row31_Colum6">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#Notification_dates_examens"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row61_Colum4">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row18_Colum6">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#D009B"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row48_Colum4">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row15_Colum4">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row28_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#SI/DVM"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row40_Colum5">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row39_Colum5">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row6_Colum5">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#Done"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row24_Colum3">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row49_Colum1">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row36_Colum4">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row45_Colum3">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row57_Colum3">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row52_Colum6">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row9_Colum6">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#PV_Reunion_de_suivi_hebdomadaire_SI_etudiant_28.06.2016"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row16_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#DVM"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row50_Colum1">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row27_Colum5">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row3_Colum3">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row55_Colum2">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row61_Colum3">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row22_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#STI/DVM"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row6_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#DVN"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row40_Colum6">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#managedby">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row1_Colum3">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#10.05.16"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row0_Colum4">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#Statut"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row46_Colum3">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row25_Colum6">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row6_Colum6">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#D022"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row20_Colum3">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row4_Colum2">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#30.05.16"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row43_Colum4">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row37_Colum3">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row28_Colum4">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#Non_demarre"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row11_Colum4">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row57_Colum6">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row34_Colum5">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row54_Colum1">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row19_Colum5">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#demander_a_DVM_pour_31.10"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row39_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#SI/DVM"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row9_Colum5">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row52_Colum3">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row61_Colum2">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row48_Colum6">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row1_Colum2">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#25.04.16"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row46_Colum2">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row23_Colum3">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row0_Colum5">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#Remarques__Oumaima_"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row13_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#STI"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row4_Colum3">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row43_Colum5">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row28_Colum5">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row48_Colum1">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row37_Colum4">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row34_Colum6">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row57_Colum5">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row19_Colum6">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#D016________D019"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row52_Colum4">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row22_Colum6">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#belongsto">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row9_Colum4">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row46_Colum5">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row25_Colum4">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#Non_demarre"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row51_Colum1">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row54_Colum6">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row0_Colum2">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#Date_debut"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row1_Colum5">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row16_Colum5">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row55_Colum4">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row40_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#SI"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row43_Colum2">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row10_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#SI__WINSOFT"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row3_Colum6">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#TACHES_PAR_DELAIS_2016.xlsx"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row4_Colum4">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row28_Colum6">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#D021:_dossier_en_traitement_S5ECOMA1617__gt___"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row37_Colum5">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row14_Colum4">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row34_Colum3">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row45_Colum6">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row1_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#DVM"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row22_Colum5">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row9_Colum3">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row19_Colum7">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row13_Colum6">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row54_Colum5">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row25_Colum5">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row17_Colum4">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#Termine"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row59_Colum1">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row0_Colum3">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#Date_Fin"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row60_Colum1">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row43_Colum1">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row46_Colum4">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row1_Colum4">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row18_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#SAE"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row16_Colum6">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#D033__gt__ressources_relatives_a_cette_demande__"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row55_Colum3">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row43_Colum3">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row37_Colum6">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row34_Colum4">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#Non_demarre"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row31_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#SAE"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row22_Colum4">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row26_Colum3">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row4_Colum5">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row9_Colum2">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#TBC"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row13_Colum5">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row52_Colum2">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row17_Colum5">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row7_Colum4">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row60_Colum5">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row0_Colum0">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#Processus"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row23_Colum6">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#D008B__gt__donnees_pour_notes_et_moyennes"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row8_Colum6">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#Planning_201602__email.pdf"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row16_Colum3">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row32_Colum5">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row52_Colum1">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row41_Colum4">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#Non_demarre"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row50_Colum3">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row13_Colum4">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row44_Colum2">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row59_Colum6">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row42_Colum6">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row51_Colum5">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row14_Colum6">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#TableauGSEM.docx"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row22_Colum3">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row49_Colum5">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row26_Colum4">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row2_Colum2">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row60_Colum4">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row58_Colum4">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row35_Colum3">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#hastitle">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row24_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#SI"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row15_Colum1">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row7_Colum5">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row60_Colum6">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row25_Colum3">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row61_Colum1">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row0_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#Services"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row30_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#SAE"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row32_Colum6">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#Notification_dates_examens"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row16_Colum4">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#Termine"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row41_Colum5">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row27_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#SI/DVM"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row50_Colum4">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row59_Colum5">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#haskeywords">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#taches"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row2_Colum3">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#30.06.16"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row51_Colum6">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row14_Colum5">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row20_Colum6">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#D023"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row26_Colum5">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row53_Colum2">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row49_Colum4">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row44_Colum3">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row35_Colum4">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#Non_demarre"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row58_Colum3">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row23_Colum4">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#Non_demarre"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row7_Colum2">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#04.07.2016"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row9_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#SI_SAAE"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row56_Colum6">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row36_Colum1">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row21_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#SI/statistiques"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row3_Colum1">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row35_Colum5">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#demandes_IEL_en_cours_a_suivre"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row2_Colum4">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row11_Colum6">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#TableauGSEM.docx"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row57_Colum1">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row20_Colum5">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#demander_a_DVM_pour_31.10"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row5_Colum6">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#Email_RetourdesdocumentsRE.pdf"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row26_Colum6">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row42_Colum1">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row53_Colum3">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row19_Colum3">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row44_Colum4">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row49_Colum3">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row58_Colum2">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row47_Colum6">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row45_Colum1">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row7_Colum3">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row23_Colum5">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row12_Colum1">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row56_Colum5">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row32_Colum4">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#termine"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Titles_Row33_Colum1">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#SI/DVM"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row50_Colum2">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row20_Colum4">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#termine"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row37_Colum2">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row35_Colum6">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row28_Colum3">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row11_Colum5">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row2_Colum5">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row19_Colum4">
+    <rdfs:range rdf:resource="http://www.ontologie.fr/monexcelO#termine"/>
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row53_Colum4">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row49_Colum2">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.ontologie.fr/monexcelO#has_Cells_Row44_Colum5">
+    <rdfs:domain rdf:resource="http://www.ontologie.fr/monexcelO#Calendrier_SI_Etudiant"/>
+  </owl:ObjectProperty>
+</rdf:RDF>

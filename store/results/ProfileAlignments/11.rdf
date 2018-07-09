@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rdf:RDF xmlns='http://knowledgeweb.semanticweb.org/heterogeneity/alignment'
+	 xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' 
+	 xmlns:xsd='http://www.w3.org/2001/XMLSchema#' 
+	 alignmentSource='AgreementMakerLight'>
+
+<Alignment>
+	<xml>yes</xml>
+	<level>0</level>
+	<type>11</type>
+	<onto1>Ressources\Reseau\UNIT.owl</onto1>
+	<onto2>Ressources/Profile/GSEMOnto.owl</onto2>
+	<uri1>http://www.ontologie.fr/monexcel#</uri1>
+	<uri2>http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology</uri2>
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/monexcel#Document"/>
+			<entity2 rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Document"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.99</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/monexcel#Institute_of_Economics_and_Econometrics"/>
+			<entity2 rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Institute_of_Economics_and_Econometrics"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.9801</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+	<map>
+		<Cell>
+			<entity1 rdf:resource="http://www.ontologie.fr/monexcel#Research_Center_for_Statistics"/>
+			<entity2 rdf:resource="http://www.semanticweb.org/ajmi/ontologies/2017/4/GSEMOntology#Research_institutes"/>
+			<measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.7057</measure>
+			<relation>=</relation>
+		</Cell>
+	</map>
+
+</Alignment>
+</rdf:RDF>
